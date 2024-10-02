@@ -1,0 +1,1001 @@
+Joke ID,Joke Text,Category,Rating,Length,Maturity Level,Sentiment Score,Contextual Information,Usage Context
+1,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,4.9,Long,PG,0.9,Seafood reference,Kids' party
+2,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,4.4,Short,G,0.6,Seafood reference,Office humor
+3,I told my wife she should embrace her mistakes. She gave me a hug.,One-liner,4.4,Medium,Adult,0.6,Everyday humor,Office humor
+4,"What did the ocean say to the beach? Nothing, it just waved.",Pun,4.5,Medium,G,0.7,Nature reference,Office humor
+5,How does a penguin build its house? Igloos it together!,Pun,3.5,Short,G,0.8,Animal reference,Party joke
+6,Why was the math book sad? It had too many problems.,Pun,3.4,Long,PG,0.9,Math joke,Party joke
+7,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,4.3,Short,G,0.7,Science joke,Office humor
+8,Why don’t skeletons fight each other? They don’t have the guts.,Pun,4.6,Medium,Adult,0.8,Halloween reference,General use
+9,I’m on a whiskey diet. I’ve lost three days already.,One-liner,3.3,Long,Adult,0.8,Alcohol reference,Party joke
+10,Why did the bicycle fall over? Because it was two-tired.,Pun,3.1,Long,PG,0.5,Transportation reference,Office humor
+11,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,4.0,Medium,PG,0.6,Science joke,Icebreaker
+12,"I used to play piano by ear, but now I use my hands.",One-liner,4.8,Long,PG,0.8,Music reference,Party joke
+13,How does a penguin build its house? Igloos it together!,Pun,3.9,Medium,Adult,0.7,Animal reference,Party joke
+14,I’m on a whiskey diet. I’ve lost three days already.,One-liner,4.6,Medium,Adult,0.6,Alcohol reference,Icebreaker
+15,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.3,Short,PG,0.6,Everyday humor,Office humor
+16,Why was the math book sad? It had too many problems.,Pun,3.9,Medium,G,1.0,Math joke,Icebreaker
+17,Why don’t scientists trust atoms? Because they make up everything!,Pun,5.0,Short,PG,0.5,Science joke,Party joke
+18,Want to hear a joke about construction? I’m still working on it.,Pun,4.6,Long,Adult,0.5,Everyday humor,Office humor
+19,Why don’t skeletons fight each other? They don’t have the guts.,Pun,3.0,Medium,PG,0.9,Halloween reference,Party joke
+20,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.9,Medium,PG,0.8,Agricultural reference,Party joke
+21,What’s orange and sounds like a parrot? A carrot!,Pun,4.3,Short,Adult,0.6,Wordplay,General use
+22,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,4.1,Long,Adult,0.9,Everyday humor,General use
+23,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,4.9,Long,PG,0.8,Tech reference,General use
+24,"What did the ocean say to the beach? Nothing, it just waved.",Pun,5.0,Short,G,0.8,Nature reference,Icebreaker
+25,"Did you hear about the restaurant on the moon? Great food, no atmosphere.",One-liner,3.6,Long,PG,0.5,Science joke,Party joke
+26,Why was the math book sad? It had too many problems.,Pun,4.7,Long,Adult,0.6,Math joke,General use
+27,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,4.2,Medium,G,0.8,Tech reference,Kids' party
+28,Why don’t skeletons fight each other? They don’t have the guts.,Pun,4.5,Short,G,0.6,Halloween reference,Office humor
+29,Why don’t programmers like nature? It has too many bugs.,Pun,3.5,Short,PG,0.8,Tech reference,General use
+30,How do you organize a space party? You planet.,Pun,4.9,Long,PG,0.8,Science joke,Kids' party
+31,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.0,Long,G,0.5,Agricultural reference,Icebreaker
+32,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.9,Short,G,0.7,Everyday humor,Party joke
+33,What’s orange and sounds like a parrot? A carrot!,Pun,3.4,Short,PG,0.9,Wordplay,Office humor
+34,Why don’t scientists trust atoms? Because they make up everything!,Pun,3.7,Medium,PG,0.9,Science joke,Office humor
+35,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,4.1,Short,PG,1.0,Tech reference,Party joke
+36,How do you organize a space party? You planet.,Pun,3.9,Short,G,0.6,Science joke,General use
+37,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.1,Long,PG,0.8,Everyday humor,Office humor
+38,Why don’t skeletons fight each other? They don’t have the guts.,Pun,3.8,Short,Adult,0.6,Halloween reference,General use
+39,Did you hear about the mathematician who’s afraid of negative numbers? He will stop at nothing to avoid them.,Pun,4.2,Medium,G,1.0,Math joke,Party joke
+40,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,3.5,Short,Adult,0.7,Everyday humor,Kids' party
+41,Why don’t programmers like nature? It has too many bugs.,Pun,3.1,Medium,PG,0.9,Tech reference,Kids' party
+42,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.1,Short,Adult,0.6,Agricultural reference,Party joke
+43,Why don’t programmers like nature? It has too many bugs.,Pun,4.4,Medium,PG,0.9,Tech reference,Party joke
+44,Why don’t skeletons fight each other? They don’t have the guts.,Pun,4.7,Short,G,1.0,Halloween reference,General use
+45,Why did the bicycle fall over? Because it was two-tired.,Pun,3.8,Long,PG,0.9,Transportation reference,Office humor
+46,Did you hear about the mathematician who’s afraid of negative numbers? He will stop at nothing to avoid them.,Pun,3.9,Short,PG,0.9,Math joke,Party joke
+47,Parallel lines have so much in common. It’s a shame they’ll never meet.,Pun,3.6,Long,Adult,0.9,Math joke,Office humor
+48,How does a penguin build its house? Igloos it together!,Pun,3.3,Medium,Adult,1.0,Animal reference,General use
+49,Why don’t programmers like nature? It has too many bugs.,Pun,3.4,Long,PG,0.6,Tech reference,Icebreaker
+50,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,4.7,Medium,G,1.0,Everyday humor,Office humor
+51,"My boss told me to have a good day, so I went home.",One-liner,4.1,Medium,Adult,0.7,Work humor,General use
+52,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.2,Long,G,0.9,Everyday humor,Icebreaker
+53,Why was the math book sad? It had too many problems.,Pun,4.7,Short,G,0.9,Math joke,Icebreaker
+54,Why did the bicycle fall over? Because it was two-tired.,Pun,4.0,Short,PG,0.8,Transportation reference,General use
+55,"What did the ocean say to the beach? Nothing, it just waved.",Pun,4.3,Short,Adult,0.5,Nature reference,Kids' party
+56,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,3.4,Short,G,0.9,Everyday humor,Icebreaker
+57,"Did you hear about the restaurant on the moon? Great food, no atmosphere.",One-liner,3.7,Medium,Adult,0.9,Science joke,General use
+58,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.2,Medium,PG,0.6,Everyday humor,General use
+59,Why don’t scientists trust atoms? Because they make up everything!,Pun,3.3,Long,PG,0.8,Science joke,Party joke
+60,How does a penguin build its house? Igloos it together!,Pun,3.6,Medium,PG,0.7,Animal reference,Kids' party
+61,Parallel lines have so much in common. It’s a shame they’ll never meet.,Pun,4.0,Short,Adult,0.9,Math joke,Kids' party
+62,I’m on a whiskey diet. I’ve lost three days already.,One-liner,4.4,Medium,Adult,0.5,Alcohol reference,Office humor
+63,Why don’t skeletons fight each other? They don’t have the guts.,Pun,4.9,Medium,G,0.5,Halloween reference,Kids' party
+64,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.3,Medium,G,0.7,Agricultural reference,Icebreaker
+65,"Did you hear about the restaurant on the moon? Great food, no atmosphere.",One-liner,4.8,Short,G,0.5,Science joke,Party joke
+66,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.1,Long,PG,0.8,Everyday humor,Office humor
+67,"I got hit in the head with a can of soda. Luckily, it was a soft drink.",Pun,3.9,Long,PG,0.8,Everyday humor,Kids' party
+68,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.7,Long,G,0.8,Everyday humor,General use
+69,How does a penguin build its house? Igloos it together!,Pun,4.8,Short,Adult,0.8,Animal reference,Icebreaker
+70,What’s orange and sounds like a parrot? A carrot!,Pun,4.4,Short,PG,0.8,Wordplay,Kids' party
+71,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.1,Short,PG,0.6,Everyday humor,Office humor
+72,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,4.7,Long,G,0.7,Everyday humor,Icebreaker
+73,Parallel lines have so much in common. It’s a shame they’ll never meet.,Pun,3.5,Medium,G,0.5,Math joke,General use
+74,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,3.1,Medium,PG,0.6,Seafood reference,Party joke
+75,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,3.1,Long,G,0.9,Science joke,Kids' party
+76,Why did the golfer bring two pairs of pants? In case he got a hole in one.,Pun,3.6,Long,PG,0.8,Sports reference,Kids' party
+77,"My boss told me to have a good day, so I went home.",One-liner,3.1,Long,PG,0.8,Work humor,Icebreaker
+78,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.8,Medium,G,0.9,Everyday humor,General use
+79,I would avoid the sushi if I was you. It’s a little fishy.,Pun,3.4,Short,G,0.5,Food reference,Kids' party
+80,Why don’t programmers like nature? It has too many bugs.,Pun,3.5,Long,G,0.8,Tech reference,Icebreaker
+81,I told my wife she should embrace her mistakes. She gave me a hug.,One-liner,3.8,Long,G,0.8,Everyday humor,Office humor
+82,"My boss told me to have a good day, so I went home.",One-liner,5.0,Short,Adult,0.6,Work humor,Icebreaker
+83,I told my wife she should embrace her mistakes. She gave me a hug.,One-liner,4.6,Short,G,0.5,Everyday humor,Icebreaker
+84,What’s orange and sounds like a parrot? A carrot!,Pun,3.7,Short,G,0.8,Wordplay,Office humor
+85,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.5,Short,PG,0.9,Everyday humor,Kids' party
+86,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.6,Medium,PG,0.9,Everyday humor,Office humor
+87,I would avoid the sushi if I was you. It’s a little fishy.,Pun,3.1,Long,Adult,0.9,Food reference,General use
+88,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,4.5,Short,PG,0.5,Everyday humor,Icebreaker
+89,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,4.7,Short,PG,0.9,Everyday humor,Icebreaker
+90,Why was the math book sad? It had too many problems.,Pun,4.2,Short,Adult,0.5,Math joke,Icebreaker
+91,Parallel lines have so much in common. It’s a shame they’ll never meet.,Pun,3.8,Long,PG,0.8,Math joke,Kids' party
+92,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,3.1,Long,PG,0.9,Everyday humor,General use
+93,I would avoid the sushi if I was you. It’s a little fishy.,Pun,3.8,Short,G,0.7,Food reference,Icebreaker
+94,Parallel lines have so much in common. It’s a shame they’ll never meet.,Pun,4.3,Short,Adult,0.9,Math joke,Icebreaker
+95,"I used to play piano by ear, but now I use my hands.",One-liner,3.8,Long,Adult,0.7,Music reference,Party joke
+96,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.7,Short,G,0.5,Science joke,Kids' party
+97,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,3.6,Short,Adult,0.6,Everyday humor,General use
+98,Why don’t scientists trust atoms? Because they make up everything!,Pun,3.4,Short,PG,0.5,Science joke,Icebreaker
+99,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,3.2,Short,G,0.7,Everyday humor,Party joke
+100,Why was the math book sad? It had too many problems.,Pun,4.8,Short,Adult,0.6,Math joke,Icebreaker
+101,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,3.3,Short,G,0.8,Everyday humor,Kids' party
+102,I’m on a whiskey diet. I’ve lost three days already.,One-liner,3.2,Long,Adult,0.6,Alcohol reference,Icebreaker
+103,Parallel lines have so much in common. It’s a shame they’ll never meet.,Pun,3.8,Short,G,0.5,Math joke,Kids' party
+104,I told my wife she should embrace her mistakes. She gave me a hug.,One-liner,4.9,Medium,Adult,0.7,Everyday humor,Party joke
+105,"Did you hear about the restaurant on the moon? Great food, no atmosphere.",One-liner,4.0,Medium,G,0.6,Science joke,General use
+106,What’s orange and sounds like a parrot? A carrot!,Pun,4.9,Medium,G,0.5,Wordplay,General use
+107,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,3.8,Short,PG,0.6,Tech reference,General use
+108,I’m on a whiskey diet. I’ve lost three days already.,One-liner,3.6,Medium,G,0.8,Alcohol reference,Office humor
+109,Did you hear about the mathematician who’s afraid of negative numbers? He will stop at nothing to avoid them.,Pun,4.1,Short,G,0.6,Math joke,Party joke
+110,Parallel lines have so much in common. It’s a shame they’ll never meet.,Pun,3.0,Medium,Adult,1.0,Math joke,Party joke
+111,"What did the ocean say to the beach? Nothing, it just waved.",Pun,3.4,Short,Adult,0.5,Nature reference,Party joke
+112,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,3.2,Long,G,0.8,Everyday humor,Party joke
+113,How do you organize a space party? You planet.,Pun,4.8,Medium,G,0.9,Science joke,Party joke
+114,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.8,Medium,PG,0.8,Agricultural reference,Office humor
+115,Want to hear a joke about construction? I’m still working on it.,Pun,3.0,Medium,G,0.8,Everyday humor,Kids' party
+116,Why don’t programmers like nature? It has too many bugs.,Pun,3.0,Medium,G,0.6,Tech reference,Party joke
+117,I told my wife she should embrace her mistakes. She gave me a hug.,One-liner,3.5,Medium,PG,0.7,Everyday humor,Kids' party
+118,How does a penguin build its house? Igloos it together!,Pun,4.3,Long,PG,0.6,Animal reference,Office humor
+119,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.2,Short,G,0.6,Agricultural reference,General use
+120,Why did the bicycle fall over? Because it was two-tired.,Pun,4.6,Short,G,0.7,Transportation reference,Office humor
+121,"What did the ocean say to the beach? Nothing, it just waved.",Pun,4.4,Short,G,0.6,Nature reference,Kids' party
+122,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.6,Medium,PG,0.9,Science joke,General use
+123,"I used to play piano by ear, but now I use my hands.",One-liner,3.2,Medium,G,0.8,Music reference,Party joke
+124,"What did the ocean say to the beach? Nothing, it just waved.",Pun,4.7,Long,G,0.6,Nature reference,Icebreaker
+125,Did you hear about the mathematician who’s afraid of negative numbers? He will stop at nothing to avoid them.,Pun,4.2,Short,PG,0.7,Math joke,Party joke
+126,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.0,Medium,PG,0.6,Science joke,Office humor
+127,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.1,Medium,G,0.7,Agricultural reference,General use
+128,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.4,Medium,Adult,1.0,Everyday humor,Party joke
+129,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.0,Short,G,0.7,Everyday humor,Kids' party
+130,What’s orange and sounds like a parrot? A carrot!,Pun,4.8,Short,G,0.8,Wordplay,Party joke
+131,Why don’t programmers like nature? It has too many bugs.,Pun,4.8,Medium,PG,0.7,Tech reference,Icebreaker
+132,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,3.9,Long,PG,0.5,Science joke,Kids' party
+133,Why don’t skeletons fight each other? They don’t have the guts.,Pun,3.5,Short,Adult,0.6,Halloween reference,Kids' party
+134,"I used to play piano by ear, but now I use my hands.",One-liner,4.1,Medium,G,0.9,Music reference,Office humor
+135,Why was the math book sad? It had too many problems.,Pun,3.8,Medium,G,0.8,Math joke,Icebreaker
+136,Want to hear a joke about construction? I’m still working on it.,Pun,4.9,Medium,G,0.9,Everyday humor,Party joke
+137,I told my wife she should embrace her mistakes. She gave me a hug.,One-liner,3.5,Long,PG,0.5,Everyday humor,Kids' party
+138,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,3.8,Long,G,0.6,Science joke,Party joke
+139,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.9,Short,G,0.6,Everyday humor,General use
+140,"My boss told me to have a good day, so I went home.",One-liner,3.5,Medium,Adult,0.7,Work humor,Party joke
+141,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.2,Long,Adult,0.6,Agricultural reference,Kids' party
+142,Want to hear a joke about construction? I’m still working on it.,Pun,4.6,Short,Adult,0.8,Everyday humor,Kids' party
+143,Parallel lines have so much in common. It’s a shame they’ll never meet.,Pun,4.7,Long,Adult,0.9,Math joke,Party joke
+144,"Did you hear about the restaurant on the moon? Great food, no atmosphere.",One-liner,4.6,Long,G,0.6,Science joke,General use
+145,I told my wife she should embrace her mistakes. She gave me a hug.,One-liner,4.5,Long,Adult,0.8,Everyday humor,Party joke
+146,How does a penguin build its house? Igloos it together!,Pun,3.6,Medium,Adult,1.0,Animal reference,Party joke
+147,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,3.8,Long,G,0.8,Everyday humor,Party joke
+148,How does a penguin build its house? Igloos it together!,Pun,4.6,Long,PG,0.5,Animal reference,General use
+149,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.5,Short,Adult,0.8,Everyday humor,Party joke
+150,"I got hit in the head with a can of soda. Luckily, it was a soft drink.",Pun,4.0,Long,PG,0.8,Everyday humor,Party joke
+151,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,3.8,Short,Adult,0.7,Everyday humor,Office humor
+152,Why don’t skeletons fight each other? They don’t have the guts.,Pun,3.2,Medium,PG,0.8,Halloween reference,Kids' party
+153,What’s orange and sounds like a parrot? A carrot!,Pun,3.0,Long,G,0.9,Wordplay,General use
+154,Why don’t scientists trust atoms? Because they make up everything!,Pun,3.5,Medium,PG,0.7,Science joke,Office humor
+155,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.4,Medium,Adult,0.9,Agricultural reference,Kids' party
+156,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,4.1,Long,PG,0.7,Everyday humor,General use
+157,How does a penguin build its house? Igloos it together!,Pun,4.2,Long,Adult,0.9,Animal reference,Party joke
+158,Why was the math book sad? It had too many problems.,Pun,3.7,Long,G,0.9,Math joke,Kids' party
+159,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,4.8,Short,Adult,0.5,Everyday humor,Icebreaker
+160,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,3.8,Long,G,0.7,Everyday humor,General use
+161,How does a penguin build its house? Igloos it together!,Pun,3.0,Medium,PG,0.5,Animal reference,Party joke
+162,"I got hit in the head with a can of soda. Luckily, it was a soft drink.",Pun,4.2,Short,Adult,1.0,Everyday humor,Office humor
+163,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.6,Short,PG,0.7,Agricultural reference,Party joke
+164,"I got hit in the head with a can of soda. Luckily, it was a soft drink.",Pun,3.3,Long,Adult,0.6,Everyday humor,Icebreaker
+165,Parallel lines have so much in common. It’s a shame they’ll never meet.,Pun,3.2,Medium,G,0.9,Math joke,General use
+166,Why don’t programmers like nature? It has too many bugs.,Pun,3.1,Medium,Adult,0.7,Tech reference,Party joke
+167,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.6,Short,PG,0.5,Agricultural reference,Kids' party
+168,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,4.9,Medium,PG,1.0,Everyday humor,Office humor
+169,"I used to play piano by ear, but now I use my hands.",One-liner,3.9,Long,Adult,0.7,Music reference,Party joke
+170,How does a penguin build its house? Igloos it together!,Pun,4.9,Short,Adult,0.5,Animal reference,Icebreaker
+171,"My boss told me to have a good day, so I went home.",One-liner,4.5,Medium,PG,0.8,Work humor,Icebreaker
+172,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.9,Long,Adult,0.6,Science joke,Party joke
+173,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.3,Long,G,0.5,Agricultural reference,Kids' party
+174,What’s orange and sounds like a parrot? A carrot!,Pun,4.1,Long,PG,0.8,Wordplay,Party joke
+175,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,3.7,Short,G,0.8,Everyday humor,General use
+176,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.5,Long,G,0.6,Agricultural reference,Icebreaker
+177,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.7,Long,G,0.9,Science joke,Office humor
+178,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.5,Medium,PG,0.7,Agricultural reference,Office humor
+179,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.4,Short,G,0.6,Agricultural reference,Icebreaker
+180,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.5,Medium,PG,0.6,Agricultural reference,Office humor
+181,"I used to play piano by ear, but now I use my hands.",One-liner,4.8,Long,Adult,0.8,Music reference,Icebreaker
+182,"My boss told me to have a good day, so I went home.",One-liner,4.7,Long,Adult,0.8,Work humor,Icebreaker
+183,How does a penguin build its house? Igloos it together!,Pun,3.7,Long,Adult,0.7,Animal reference,Party joke
+184,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,3.5,Long,Adult,0.6,Everyday humor,Kids' party
+185,I’m on a whiskey diet. I’ve lost three days already.,One-liner,3.8,Long,Adult,0.9,Alcohol reference,Party joke
+186,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.9,Medium,Adult,0.8,Everyday humor,General use
+187,Why don’t programmers like nature? It has too many bugs.,Pun,3.9,Short,PG,0.8,Tech reference,Party joke
+188,Parallel lines have so much in common. It’s a shame they’ll never meet.,Pun,3.6,Short,PG,0.8,Math joke,Icebreaker
+189,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.2,Medium,Adult,0.8,Science joke,General use
+190,Why don’t programmers like nature? It has too many bugs.,Pun,3.7,Long,PG,0.7,Tech reference,Party joke
+191,Why did the bicycle fall over? Because it was two-tired.,Pun,3.9,Long,G,0.9,Transportation reference,General use
+192,"Did you hear about the restaurant on the moon? Great food, no atmosphere.",One-liner,3.7,Medium,PG,0.8,Science joke,Kids' party
+193,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,4.5,Short,PG,0.7,Seafood reference,Icebreaker
+194,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.7,Short,PG,0.8,Everyday humor,Icebreaker
+195,Did you hear about the mathematician who’s afraid of negative numbers? He will stop at nothing to avoid them.,Pun,4.0,Short,Adult,0.8,Math joke,Party joke
+196,Why did the bicycle fall over? Because it was two-tired.,Pun,4.3,Medium,G,0.7,Transportation reference,Office humor
+197,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,3.2,Short,G,0.6,Everyday humor,Party joke
+198,Why did the golfer bring two pairs of pants? In case he got a hole in one.,Pun,4.4,Short,PG,0.9,Sports reference,Party joke
+199,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.0,Short,Adult,0.8,Agricultural reference,Office humor
+200,Why did the bicycle fall over? Because it was two-tired.,Pun,5.0,Medium,G,1.0,Transportation reference,Icebreaker
+201,"My boss told me to have a good day, so I went home.",One-liner,4.4,Long,Adult,0.6,Work humor,Icebreaker
+202,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.2,Medium,PG,0.8,Everyday humor,General use
+203,Why don’t scientists trust atoms? Because they make up everything!,Pun,3.3,Medium,PG,0.9,Science joke,Kids' party
+204,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.2,Medium,G,1.0,Agricultural reference,Party joke
+205,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.8,Medium,PG,0.6,Everyday humor,General use
+206,Why was the math book sad? It had too many problems.,Pun,3.1,Long,Adult,0.5,Math joke,General use
+207,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.2,Short,Adult,0.7,Agricultural reference,Kids' party
+208,How do you organize a space party? You planet.,Pun,4.9,Short,Adult,0.9,Science joke,Office humor
+209,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,4.3,Short,PG,0.8,Seafood reference,Icebreaker
+210,Why did the bicycle fall over? Because it was two-tired.,Pun,4.8,Short,Adult,0.7,Transportation reference,Office humor
+211,How do you organize a space party? You planet.,Pun,4.9,Medium,G,0.6,Science joke,Icebreaker
+212,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,5.0,Short,Adult,1.0,Seafood reference,Icebreaker
+213,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.6,Medium,Adult,0.7,Everyday humor,Icebreaker
+214,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.8,Medium,Adult,0.8,Everyday humor,Kids' party
+215,What’s orange and sounds like a parrot? A carrot!,Pun,4.2,Medium,Adult,0.9,Wordplay,Icebreaker
+216,"What did the ocean say to the beach? Nothing, it just waved.",Pun,4.6,Long,G,0.8,Nature reference,Icebreaker
+217,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,3.4,Short,G,0.7,Seafood reference,General use
+218,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.9,Long,PG,0.5,Everyday humor,General use
+219,I told my wife she should embrace her mistakes. She gave me a hug.,One-liner,4.4,Medium,PG,0.9,Everyday humor,Party joke
+220,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.8,Short,Adult,1.0,Everyday humor,Icebreaker
+221,I would avoid the sushi if I was you. It’s a little fishy.,Pun,4.1,Medium,Adult,1.0,Food reference,Party joke
+222,What’s orange and sounds like a parrot? A carrot!,Pun,4.5,Medium,PG,0.9,Wordplay,Party joke
+223,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.7,Short,PG,0.6,Agricultural reference,Office humor
+224,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,4.5,Short,G,0.8,Tech reference,Kids' party
+225,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.9,Long,PG,1.0,Agricultural reference,Kids' party
+226,What’s orange and sounds like a parrot? A carrot!,Pun,4.4,Long,PG,0.7,Wordplay,Kids' party
+227,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.0,Long,Adult,0.5,Science joke,Kids' party
+228,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.6,Short,G,0.8,Agricultural reference,Party joke
+229,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,3.1,Long,Adult,1.0,Seafood reference,Kids' party
+230,Why don’t skeletons fight each other? They don’t have the guts.,Pun,3.3,Long,PG,0.9,Halloween reference,Office humor
+231,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.8,Short,G,1.0,Science joke,General use
+232,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,5.0,Medium,Adult,0.5,Everyday humor,Office humor
+233,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,4.6,Long,G,0.7,Science joke,Party joke
+234,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,5.0,Short,G,0.6,Everyday humor,Icebreaker
+235,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,3.7,Medium,G,1.0,Everyday humor,Kids' party
+236,I told my wife she should embrace her mistakes. She gave me a hug.,One-liner,4.5,Medium,Adult,0.7,Everyday humor,Party joke
+237,I’m on a whiskey diet. I’ve lost three days already.,One-liner,3.7,Medium,Adult,0.9,Alcohol reference,Kids' party
+238,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,3.7,Long,PG,0.8,Tech reference,Icebreaker
+239,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,3.1,Short,Adult,0.9,Seafood reference,Party joke
+240,How do you organize a space party? You planet.,Pun,3.2,Long,Adult,0.6,Science joke,Icebreaker
+241,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,3.8,Short,G,0.6,Seafood reference,Office humor
+242,Why was the math book sad? It had too many problems.,Pun,4.8,Short,Adult,0.9,Math joke,Party joke
+243,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.6,Long,G,0.9,Agricultural reference,Icebreaker
+244,How does a penguin build its house? Igloos it together!,Pun,3.3,Long,PG,0.6,Animal reference,General use
+245,Why did the golfer bring two pairs of pants? In case he got a hole in one.,Pun,3.9,Long,PG,1.0,Sports reference,Kids' party
+246,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.5,Medium,G,0.9,Agricultural reference,Office humor
+247,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.9,Medium,Adult,0.9,Agricultural reference,Kids' party
+248,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,3.3,Medium,G,0.7,Everyday humor,Office humor
+249,Why was the math book sad? It had too many problems.,Pun,4.2,Short,PG,0.9,Math joke,Icebreaker
+250,"I used to play piano by ear, but now I use my hands.",One-liner,3.1,Medium,PG,0.9,Music reference,Office humor
+251,Want to hear a joke about construction? I’m still working on it.,Pun,4.4,Short,G,0.9,Everyday humor,General use
+252,Did you hear about the mathematician who’s afraid of negative numbers? He will stop at nothing to avoid them.,Pun,4.3,Long,PG,0.8,Math joke,Party joke
+253,What’s orange and sounds like a parrot? A carrot!,Pun,3.2,Medium,Adult,1.0,Wordplay,Party joke
+254,"I got hit in the head with a can of soda. Luckily, it was a soft drink.",Pun,3.1,Long,Adult,0.6,Everyday humor,Kids' party
+255,How do you organize a space party? You planet.,Pun,4.7,Medium,Adult,0.8,Science joke,Party joke
+256,Why don’t skeletons fight each other? They don’t have the guts.,Pun,4.7,Short,Adult,0.7,Halloween reference,Office humor
+257,Why don’t programmers like nature? It has too many bugs.,Pun,3.2,Medium,PG,0.7,Tech reference,General use
+258,"My boss told me to have a good day, so I went home.",One-liner,3.3,Short,PG,0.9,Work humor,Party joke
+259,Why was the math book sad? It had too many problems.,Pun,3.1,Long,Adult,0.8,Math joke,Kids' party
+260,"I got hit in the head with a can of soda. Luckily, it was a soft drink.",Pun,4.2,Long,Adult,0.6,Everyday humor,Icebreaker
+261,How do you organize a space party? You planet.,Pun,3.0,Medium,G,0.9,Science joke,Party joke
+262,How do you organize a space party? You planet.,Pun,3.7,Short,G,0.6,Science joke,Party joke
+263,Why did the golfer bring two pairs of pants? In case he got a hole in one.,Pun,4.5,Long,PG,0.9,Sports reference,Icebreaker
+264,"Did you hear about the restaurant on the moon? Great food, no atmosphere.",One-liner,4.0,Short,Adult,0.9,Science joke,Party joke
+265,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,4.8,Long,Adult,0.9,Everyday humor,Office humor
+266,Why don’t programmers like nature? It has too many bugs.,Pun,4.1,Short,PG,0.8,Tech reference,General use
+267,"I got hit in the head with a can of soda. Luckily, it was a soft drink.",Pun,4.1,Long,PG,0.7,Everyday humor,Office humor
+268,Want to hear a joke about construction? I’m still working on it.,Pun,4.1,Long,G,0.8,Everyday humor,General use
+269,Parallel lines have so much in common. It’s a shame they’ll never meet.,Pun,3.1,Medium,G,0.9,Math joke,General use
+270,"What did the ocean say to the beach? Nothing, it just waved.",Pun,4.6,Long,PG,0.6,Nature reference,Icebreaker
+271,Why don’t scientists trust atoms? Because they make up everything!,Pun,3.5,Medium,PG,0.7,Science joke,Party joke
+272,Want to hear a joke about construction? I’m still working on it.,Pun,3.2,Long,PG,0.7,Everyday humor,Icebreaker
+273,Want to hear a joke about construction? I’m still working on it.,Pun,4.4,Long,PG,0.6,Everyday humor,Office humor
+274,Why don’t scientists trust atoms? Because they make up everything!,Pun,3.5,Short,PG,0.7,Science joke,General use
+275,Why don’t scientists trust atoms? Because they make up everything!,Pun,3.4,Long,Adult,0.9,Science joke,Office humor
+276,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.5,Long,G,0.7,Science joke,Icebreaker
+277,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,4.1,Medium,PG,1.0,Everyday humor,Icebreaker
+278,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.8,Long,G,0.7,Agricultural reference,Kids' party
+279,How does a penguin build its house? Igloos it together!,Pun,4.9,Medium,G,1.0,Animal reference,General use
+280,How do you organize a space party? You planet.,Pun,3.4,Long,Adult,0.5,Science joke,Kids' party
+281,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,3.2,Long,G,0.9,Science joke,Kids' party
+282,"Did you hear about the restaurant on the moon? Great food, no atmosphere.",One-liner,3.6,Short,PG,0.8,Science joke,General use
+283,Why don’t skeletons fight each other? They don’t have the guts.,Pun,3.8,Medium,PG,0.8,Halloween reference,Icebreaker
+284,Why did the golfer bring two pairs of pants? In case he got a hole in one.,Pun,3.9,Short,Adult,0.6,Sports reference,Kids' party
+285,Why don’t skeletons fight each other? They don’t have the guts.,Pun,5.0,Medium,PG,0.8,Halloween reference,Party joke
+286,"My boss told me to have a good day, so I went home.",One-liner,3.7,Medium,PG,0.6,Work humor,Office humor
+287,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.9,Long,G,1.0,Agricultural reference,General use
+288,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,4.5,Long,Adult,0.5,Everyday humor,Kids' party
+289,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.3,Long,Adult,0.5,Agricultural reference,Office humor
+290,I would avoid the sushi if I was you. It’s a little fishy.,Pun,3.5,Medium,PG,0.5,Food reference,Kids' party
+291,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,5.0,Long,Adult,0.8,Tech reference,Office humor
+292,I would avoid the sushi if I was you. It’s a little fishy.,Pun,3.5,Medium,Adult,1.0,Food reference,Party joke
+293,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.9,Medium,PG,0.5,Science joke,Office humor
+294,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.2,Short,G,0.6,Everyday humor,Icebreaker
+295,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.9,Short,PG,0.9,Agricultural reference,Kids' party
+296,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,4.8,Medium,PG,0.5,Tech reference,Office humor
+297,Want to hear a joke about construction? I’m still working on it.,Pun,3.1,Short,G,0.8,Everyday humor,General use
+298,"What did the ocean say to the beach? Nothing, it just waved.",Pun,4.6,Medium,Adult,0.5,Nature reference,General use
+299,"My boss told me to have a good day, so I went home.",One-liner,3.1,Short,Adult,0.5,Work humor,Icebreaker
+300,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.8,Medium,PG,0.9,Everyday humor,Party joke
+301,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.9,Medium,Adult,0.6,Science joke,Party joke
+302,Why was the math book sad? It had too many problems.,Pun,4.1,Short,PG,1.0,Math joke,General use
+303,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.5,Short,G,0.6,Everyday humor,Party joke
+304,"I used to play piano by ear, but now I use my hands.",One-liner,3.3,Medium,G,0.9,Music reference,General use
+305,Why was the math book sad? It had too many problems.,Pun,3.9,Short,PG,1.0,Math joke,General use
+306,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.4,Short,G,0.9,Agricultural reference,Kids' party
+307,Parallel lines have so much in common. It’s a shame they’ll never meet.,Pun,3.7,Short,Adult,0.6,Math joke,Icebreaker
+308,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,3.7,Short,Adult,1.0,Everyday humor,Kids' party
+309,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,3.4,Long,Adult,0.6,Tech reference,Office humor
+310,Did you hear about the mathematician who’s afraid of negative numbers? He will stop at nothing to avoid them.,Pun,3.5,Long,PG,0.9,Math joke,Icebreaker
+311,I’m on a whiskey diet. I’ve lost three days already.,One-liner,3.5,Long,Adult,0.8,Alcohol reference,Kids' party
+312,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,4.8,Short,G,1.0,Seafood reference,Party joke
+313,Why did the bicycle fall over? Because it was two-tired.,Pun,3.5,Long,G,0.6,Transportation reference,Kids' party
+314,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.4,Long,G,0.7,Science joke,Party joke
+315,I would avoid the sushi if I was you. It’s a little fishy.,Pun,3.6,Long,G,0.6,Food reference,Office humor
+316,"My boss told me to have a good day, so I went home.",One-liner,3.7,Short,G,0.5,Work humor,Icebreaker
+317,I’m on a whiskey diet. I’ve lost three days already.,One-liner,4.3,Long,PG,0.6,Alcohol reference,General use
+318,Why don’t scientists trust atoms? Because they make up everything!,Pun,3.1,Medium,G,0.5,Science joke,Party joke
+319,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,3.6,Medium,G,0.9,Everyday humor,Party joke
+320,"I used to play piano by ear, but now I use my hands.",One-liner,3.3,Long,PG,0.7,Music reference,Party joke
+321,I’m on a whiskey diet. I’ve lost three days already.,One-liner,3.5,Medium,Adult,0.5,Alcohol reference,Icebreaker
+322,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.2,Short,PG,0.6,Everyday humor,Kids' party
+323,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,3.7,Short,Adult,0.8,Everyday humor,Party joke
+324,"I used to play piano by ear, but now I use my hands.",One-liner,3.6,Long,G,0.8,Music reference,General use
+325,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,3.7,Medium,Adult,0.9,Seafood reference,Kids' party
+326,Why did the golfer bring two pairs of pants? In case he got a hole in one.,Pun,3.7,Long,Adult,0.6,Sports reference,Party joke
+327,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.2,Short,G,0.6,Everyday humor,Party joke
+328,"I got hit in the head with a can of soda. Luckily, it was a soft drink.",Pun,4.8,Short,PG,0.9,Everyday humor,General use
+329,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,4.8,Long,PG,0.8,Tech reference,Office humor
+330,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.8,Medium,G,1.0,Agricultural reference,Icebreaker
+331,Did you hear about the mathematician who’s afraid of negative numbers? He will stop at nothing to avoid them.,Pun,3.9,Medium,G,0.7,Math joke,Office humor
+332,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,4.7,Long,G,0.6,Everyday humor,Kids' party
+333,How does a penguin build its house? Igloos it together!,Pun,4.7,Short,Adult,0.7,Animal reference,General use
+334,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,3.8,Short,PG,0.6,Tech reference,Office humor
+335,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,4.2,Medium,G,0.6,Everyday humor,General use
+336,Why don’t programmers like nature? It has too many bugs.,Pun,4.9,Long,Adult,0.9,Tech reference,General use
+337,"I used to play piano by ear, but now I use my hands.",One-liner,4.6,Medium,Adult,0.8,Music reference,General use
+338,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.3,Long,PG,0.6,Science joke,Kids' party
+339,Why don’t skeletons fight each other? They don’t have the guts.,Pun,4.1,Long,Adult,0.9,Halloween reference,Icebreaker
+340,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,3.4,Long,PG,0.9,Seafood reference,Icebreaker
+341,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,4.5,Long,G,0.8,Everyday humor,Icebreaker
+342,"I used to play piano by ear, but now I use my hands.",One-liner,4.3,Long,Adult,0.6,Music reference,Party joke
+343,"What did the ocean say to the beach? Nothing, it just waved.",Pun,4.6,Medium,Adult,0.8,Nature reference,Icebreaker
+344,I told my wife she should embrace her mistakes. She gave me a hug.,One-liner,3.1,Long,PG,0.5,Everyday humor,Kids' party
+345,Why don’t skeletons fight each other? They don’t have the guts.,Pun,4.4,Short,Adult,0.6,Halloween reference,Icebreaker
+346,I would avoid the sushi if I was you. It’s a little fishy.,Pun,3.6,Short,PG,0.8,Food reference,Icebreaker
+347,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.8,Medium,G,0.6,Agricultural reference,Party joke
+348,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.9,Long,Adult,0.6,Agricultural reference,General use
+349,Parallel lines have so much in common. It’s a shame they’ll never meet.,Pun,3.6,Short,Adult,0.9,Math joke,Office humor
+350,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,3.3,Long,Adult,0.5,Science joke,General use
+351,I would avoid the sushi if I was you. It’s a little fishy.,Pun,4.6,Long,G,0.5,Food reference,General use
+352,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,3.1,Long,PG,0.9,Seafood reference,Office humor
+353,Why did the golfer bring two pairs of pants? In case he got a hole in one.,Pun,4.6,Long,G,0.5,Sports reference,General use
+354,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,3.9,Long,Adult,0.7,Science joke,General use
+355,Why don’t scientists trust atoms? Because they make up everything!,Pun,3.7,Medium,Adult,0.7,Science joke,General use
+356,What’s orange and sounds like a parrot? A carrot!,Pun,4.3,Short,G,0.6,Wordplay,General use
+357,Why don’t scientists trust atoms? Because they make up everything!,Pun,3.9,Long,Adult,0.5,Science joke,Icebreaker
+358,Why did the bicycle fall over? Because it was two-tired.,Pun,3.8,Long,G,0.7,Transportation reference,Office humor
+359,What’s orange and sounds like a parrot? A carrot!,Pun,4.6,Short,G,0.5,Wordplay,Party joke
+360,"My boss told me to have a good day, so I went home.",One-liner,4.6,Medium,G,0.8,Work humor,Party joke
+361,Want to hear a joke about construction? I’m still working on it.,Pun,4.7,Long,PG,0.6,Everyday humor,Kids' party
+362,What’s orange and sounds like a parrot? A carrot!,Pun,4.1,Long,PG,0.6,Wordplay,Kids' party
+363,Why don’t skeletons fight each other? They don’t have the guts.,Pun,4.4,Long,G,0.5,Halloween reference,General use
+364,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,3.0,Medium,Adult,1.0,Seafood reference,Icebreaker
+365,How do you organize a space party? You planet.,Pun,3.3,Medium,PG,0.7,Science joke,Icebreaker
+366,"I got hit in the head with a can of soda. Luckily, it was a soft drink.",Pun,4.4,Long,PG,0.7,Everyday humor,Office humor
+367,Why did the bicycle fall over? Because it was two-tired.,Pun,3.9,Short,G,0.7,Transportation reference,Office humor
+368,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,3.6,Long,G,0.7,Everyday humor,Kids' party
+369,How do you organize a space party? You planet.,Pun,4.6,Long,PG,0.5,Science joke,Icebreaker
+370,"What did the ocean say to the beach? Nothing, it just waved.",Pun,4.1,Medium,Adult,0.9,Nature reference,Icebreaker
+371,"Did you hear about the restaurant on the moon? Great food, no atmosphere.",One-liner,4.0,Short,Adult,0.9,Science joke,Party joke
+372,"My boss told me to have a good day, so I went home.",One-liner,3.0,Long,Adult,0.6,Work humor,Office humor
+373,Did you hear about the mathematician who’s afraid of negative numbers? He will stop at nothing to avoid them.,Pun,3.1,Short,G,0.7,Math joke,Office humor
+374,I would avoid the sushi if I was you. It’s a little fishy.,Pun,4.2,Medium,Adult,1.0,Food reference,Kids' party
+375,I told my wife she should embrace her mistakes. She gave me a hug.,One-liner,3.6,Short,G,0.7,Everyday humor,Kids' party
+376,How do you organize a space party? You planet.,Pun,4.0,Short,Adult,0.7,Science joke,Icebreaker
+377,What’s orange and sounds like a parrot? A carrot!,Pun,3.4,Medium,Adult,0.8,Wordplay,Icebreaker
+378,I would avoid the sushi if I was you. It’s a little fishy.,Pun,4.7,Short,PG,0.6,Food reference,Office humor
+379,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.1,Long,G,0.9,Agricultural reference,Icebreaker
+380,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.0,Medium,Adult,0.9,Agricultural reference,General use
+381,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,4.3,Long,PG,0.5,Science joke,Party joke
+382,"I got hit in the head with a can of soda. Luckily, it was a soft drink.",Pun,4.4,Long,G,0.5,Everyday humor,Party joke
+383,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,3.0,Long,Adult,0.8,Everyday humor,Kids' party
+384,How do you organize a space party? You planet.,Pun,4.7,Short,Adult,0.6,Science joke,General use
+385,Why don’t skeletons fight each other? They don’t have the guts.,Pun,4.8,Short,PG,0.9,Halloween reference,Party joke
+386,"My boss told me to have a good day, so I went home.",One-liner,4.5,Medium,Adult,0.7,Work humor,Party joke
+387,Want to hear a joke about construction? I’m still working on it.,Pun,4.5,Long,G,0.8,Everyday humor,Party joke
+388,I told my wife she should embrace her mistakes. She gave me a hug.,One-liner,3.5,Short,Adult,0.7,Everyday humor,Icebreaker
+389,I told my wife she should embrace her mistakes. She gave me a hug.,One-liner,4.3,Long,G,0.5,Everyday humor,General use
+390,How do you organize a space party? You planet.,Pun,4.6,Short,Adult,0.6,Science joke,Party joke
+391,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,4.7,Short,G,0.8,Seafood reference,General use
+392,Why don’t scientists trust atoms? Because they make up everything!,Pun,3.2,Long,G,0.6,Science joke,Icebreaker
+393,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.4,Long,PG,1.0,Science joke,General use
+394,"What did the ocean say to the beach? Nothing, it just waved.",Pun,3.7,Medium,Adult,0.6,Nature reference,Kids' party
+395,Why don’t skeletons fight each other? They don’t have the guts.,Pun,3.5,Short,Adult,0.9,Halloween reference,Kids' party
+396,"I got hit in the head with a can of soda. Luckily, it was a soft drink.",Pun,4.5,Short,PG,0.7,Everyday humor,Party joke
+397,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,3.5,Medium,PG,0.9,Seafood reference,Party joke
+398,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,4.6,Short,Adult,1.0,Everyday humor,Kids' party
+399,Why don’t skeletons fight each other? They don’t have the guts.,Pun,4.3,Short,Adult,0.8,Halloween reference,Kids' party
+400,Did you hear about the mathematician who’s afraid of negative numbers? He will stop at nothing to avoid them.,Pun,3.6,Medium,PG,0.9,Math joke,Kids' party
+401,Why was the math book sad? It had too many problems.,Pun,3.8,Long,Adult,0.6,Math joke,Party joke
+402,"I got hit in the head with a can of soda. Luckily, it was a soft drink.",Pun,3.7,Long,Adult,0.5,Everyday humor,Kids' party
+403,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.4,Short,PG,0.9,Everyday humor,General use
+404,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,3.1,Long,PG,0.7,Tech reference,Party joke
+405,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,3.1,Short,G,0.6,Seafood reference,Party joke
+406,"Did you hear about the restaurant on the moon? Great food, no atmosphere.",One-liner,4.2,Medium,PG,0.6,Science joke,Party joke
+407,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,4.8,Long,G,0.9,Everyday humor,Party joke
+408,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.2,Medium,Adult,1.0,Everyday humor,Icebreaker
+409,Why don’t skeletons fight each other? They don’t have the guts.,Pun,4.3,Long,Adult,0.7,Halloween reference,Party joke
+410,Why don’t skeletons fight each other? They don’t have the guts.,Pun,4.9,Medium,PG,0.9,Halloween reference,Kids' party
+411,How does a penguin build its house? Igloos it together!,Pun,3.6,Medium,Adult,0.9,Animal reference,General use
+412,I would avoid the sushi if I was you. It’s a little fishy.,Pun,3.6,Short,Adult,0.7,Food reference,General use
+413,I would avoid the sushi if I was you. It’s a little fishy.,Pun,4.3,Short,PG,0.7,Food reference,Icebreaker
+414,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.3,Medium,PG,0.8,Science joke,Party joke
+415,Did you hear about the mathematician who’s afraid of negative numbers? He will stop at nothing to avoid them.,Pun,3.7,Long,Adult,0.6,Math joke,Office humor
+416,Why don’t scientists trust atoms? Because they make up everything!,Pun,3.6,Medium,PG,0.8,Science joke,Kids' party
+417,"Did you hear about the restaurant on the moon? Great food, no atmosphere.",One-liner,3.8,Medium,G,1.0,Science joke,Kids' party
+418,"Did you hear about the restaurant on the moon? Great food, no atmosphere.",One-liner,3.2,Long,Adult,0.9,Science joke,Party joke
+419,"What did the ocean say to the beach? Nothing, it just waved.",Pun,4.8,Medium,PG,0.7,Nature reference,General use
+420,Want to hear a joke about construction? I’m still working on it.,Pun,3.1,Short,PG,0.6,Everyday humor,Kids' party
+421,"I got hit in the head with a can of soda. Luckily, it was a soft drink.",Pun,4.1,Long,PG,0.9,Everyday humor,Party joke
+422,What’s orange and sounds like a parrot? A carrot!,Pun,3.5,Medium,Adult,0.8,Wordplay,Kids' party
+423,Why don’t scientists trust atoms? Because they make up everything!,Pun,3.3,Long,Adult,0.7,Science joke,Kids' party
+424,Why was the math book sad? It had too many problems.,Pun,4.1,Long,Adult,0.9,Math joke,Party joke
+425,I would avoid the sushi if I was you. It’s a little fishy.,Pun,4.4,Short,G,0.9,Food reference,General use
+426,I told my wife she should embrace her mistakes. She gave me a hug.,One-liner,4.0,Long,PG,0.8,Everyday humor,General use
+427,Want to hear a joke about construction? I’m still working on it.,Pun,3.0,Short,G,0.8,Everyday humor,Icebreaker
+428,I’m on a whiskey diet. I’ve lost three days already.,One-liner,3.5,Short,G,0.6,Alcohol reference,Icebreaker
+429,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.4,Long,PG,0.9,Everyday humor,Kids' party
+430,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,3.4,Long,PG,0.7,Everyday humor,Office humor
+431,I would avoid the sushi if I was you. It’s a little fishy.,Pun,4.9,Medium,PG,0.7,Food reference,Office humor
+432,Why did the golfer bring two pairs of pants? In case he got a hole in one.,Pun,3.2,Short,Adult,0.9,Sports reference,Icebreaker
+433,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.5,Long,PG,0.6,Agricultural reference,Icebreaker
+434,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.4,Short,Adult,1.0,Everyday humor,Party joke
+435,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,3.3,Long,PG,0.8,Everyday humor,Icebreaker
+436,"I used to play piano by ear, but now I use my hands.",One-liner,4.3,Long,PG,0.8,Music reference,Office humor
+437,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,4.6,Long,G,0.7,Tech reference,Icebreaker
+438,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,3.8,Long,Adult,0.9,Science joke,Office humor
+439,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,3.4,Medium,Adult,0.8,Seafood reference,Icebreaker
+440,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,4.5,Long,PG,0.9,Seafood reference,Icebreaker
+441,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,5.0,Long,G,0.7,Tech reference,Kids' party
+442,I’m on a whiskey diet. I’ve lost three days already.,One-liner,3.6,Short,G,0.8,Alcohol reference,Office humor
+443,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.9,Medium,Adult,0.8,Agricultural reference,Icebreaker
+444,"I got hit in the head with a can of soda. Luckily, it was a soft drink.",Pun,4.0,Short,G,0.8,Everyday humor,Party joke
+445,"Did you hear about the restaurant on the moon? Great food, no atmosphere.",One-liner,3.4,Long,G,0.6,Science joke,Office humor
+446,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,4.9,Long,G,0.5,Tech reference,Office humor
+447,I told my wife she should embrace her mistakes. She gave me a hug.,One-liner,4.3,Long,PG,0.5,Everyday humor,General use
+448,"I used to play piano by ear, but now I use my hands.",One-liner,4.2,Medium,Adult,0.5,Music reference,Office humor
+449,Why did the bicycle fall over? Because it was two-tired.,Pun,3.6,Long,Adult,0.8,Transportation reference,Office humor
+450,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.7,Short,G,1.0,Everyday humor,Party joke
+451,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,3.5,Long,PG,0.6,Everyday humor,Icebreaker
+452,I’m on a whiskey diet. I’ve lost three days already.,One-liner,4.3,Long,Adult,0.5,Alcohol reference,General use
+453,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,3.9,Long,G,0.9,Tech reference,Kids' party
+454,How does a penguin build its house? Igloos it together!,Pun,4.4,Long,Adult,0.9,Animal reference,Icebreaker
+455,How do you organize a space party? You planet.,Pun,3.4,Long,G,0.7,Science joke,Kids' party
+456,Want to hear a joke about construction? I’m still working on it.,Pun,4.1,Medium,Adult,0.9,Everyday humor,Party joke
+457,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,4.6,Medium,PG,0.8,Seafood reference,Kids' party
+458,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.1,Medium,PG,0.8,Everyday humor,Party joke
+459,Did you hear about the mathematician who’s afraid of negative numbers? He will stop at nothing to avoid them.,Pun,4.7,Short,Adult,0.7,Math joke,Kids' party
+460,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,4.4,Short,PG,0.8,Everyday humor,Office humor
+461,"My boss told me to have a good day, so I went home.",One-liner,3.7,Medium,Adult,0.9,Work humor,Office humor
+462,I told my wife she should embrace her mistakes. She gave me a hug.,One-liner,4.5,Medium,Adult,0.7,Everyday humor,Icebreaker
+463,Why was the math book sad? It had too many problems.,Pun,3.2,Long,G,0.5,Math joke,Kids' party
+464,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.3,Medium,PG,0.8,Everyday humor,Office humor
+465,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,4.1,Long,G,1.0,Tech reference,Icebreaker
+466,"Did you hear about the restaurant on the moon? Great food, no atmosphere.",One-liner,4.9,Medium,Adult,0.6,Science joke,Office humor
+467,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,4.3,Long,G,0.5,Tech reference,General use
+468,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,3.4,Medium,G,0.7,Everyday humor,Party joke
+469,"What did the ocean say to the beach? Nothing, it just waved.",Pun,4.9,Medium,Adult,0.8,Nature reference,Office humor
+470,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.7,Medium,PG,0.6,Agricultural reference,General use
+471,Want to hear a joke about construction? I’m still working on it.,Pun,3.2,Medium,PG,0.7,Everyday humor,General use
+472,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.2,Long,Adult,0.8,Science joke,Office humor
+473,Parallel lines have so much in common. It’s a shame they’ll never meet.,Pun,3.4,Medium,Adult,0.9,Math joke,Kids' party
+474,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.2,Short,PG,0.8,Science joke,Office humor
+475,"I got hit in the head with a can of soda. Luckily, it was a soft drink.",Pun,3.8,Medium,G,0.7,Everyday humor,Office humor
+476,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.5,Medium,Adult,0.8,Science joke,Office humor
+477,Why don’t scientists trust atoms? Because they make up everything!,Pun,3.3,Medium,G,0.6,Science joke,General use
+478,"I used to play piano by ear, but now I use my hands.",One-liner,3.1,Long,Adult,0.6,Music reference,Office humor
+479,How does a penguin build its house? Igloos it together!,Pun,4.2,Short,Adult,0.9,Animal reference,General use
+480,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.1,Medium,PG,0.9,Agricultural reference,Kids' party
+481,Did you hear about the mathematician who’s afraid of negative numbers? He will stop at nothing to avoid them.,Pun,4.7,Long,G,0.7,Math joke,Party joke
+482,"I used to play piano by ear, but now I use my hands.",One-liner,4.0,Short,G,1.0,Music reference,Party joke
+483,"What did the ocean say to the beach? Nothing, it just waved.",Pun,3.8,Long,PG,1.0,Nature reference,Office humor
+484,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.3,Long,G,0.5,Science joke,Kids' party
+485,I’m on a whiskey diet. I’ve lost three days already.,One-liner,3.9,Medium,G,0.6,Alcohol reference,Kids' party
+486,"I got hit in the head with a can of soda. Luckily, it was a soft drink.",Pun,3.7,Short,PG,0.6,Everyday humor,Office humor
+487,How does a penguin build its house? Igloos it together!,Pun,3.7,Medium,PG,0.7,Animal reference,Icebreaker
+488,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.6,Short,G,0.6,Science joke,Party joke
+489,"I got hit in the head with a can of soda. Luckily, it was a soft drink.",Pun,3.8,Medium,Adult,0.9,Everyday humor,Party joke
+490,Parallel lines have so much in common. It’s a shame they’ll never meet.,Pun,3.7,Medium,G,1.0,Math joke,General use
+491,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.6,Medium,G,0.9,Agricultural reference,Kids' party
+492,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.9,Long,PG,0.6,Science joke,General use
+493,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.1,Medium,PG,1.0,Science joke,Kids' party
+494,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.1,Long,G,0.6,Everyday humor,General use
+495,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,3.7,Medium,G,0.5,Everyday humor,Office humor
+496,"What did the ocean say to the beach? Nothing, it just waved.",Pun,3.6,Medium,PG,0.8,Nature reference,Icebreaker
+497,Parallel lines have so much in common. It’s a shame they’ll never meet.,Pun,4.9,Long,Adult,0.6,Math joke,Office humor
+498,Why did the bicycle fall over? Because it was two-tired.,Pun,4.0,Short,Adult,0.8,Transportation reference,General use
+499,"I got hit in the head with a can of soda. Luckily, it was a soft drink.",Pun,4.8,Medium,G,0.9,Everyday humor,Party joke
+500,Why don’t skeletons fight each other? They don’t have the guts.,Pun,4.9,Long,PG,0.6,Halloween reference,Icebreaker
+501,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.2,Short,PG,0.5,Science joke,Kids' party
+502,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.1,Medium,Adult,0.9,Science joke,Office humor
+503,Why did the bicycle fall over? Because it was two-tired.,Pun,4.3,Long,PG,1.0,Transportation reference,Party joke
+504,How does a penguin build its house? Igloos it together!,Pun,4.1,Short,G,0.6,Animal reference,Icebreaker
+505,How does a penguin build its house? Igloos it together!,Pun,4.1,Short,Adult,0.9,Animal reference,Party joke
+506,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.8,Short,G,0.6,Everyday humor,Kids' party
+507,Why was the math book sad? It had too many problems.,Pun,3.6,Short,Adult,0.8,Math joke,Kids' party
+508,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,4.8,Short,PG,1.0,Tech reference,Kids' party
+509,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,4.9,Medium,G,0.9,Seafood reference,Kids' party
+510,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.0,Long,G,0.8,Agricultural reference,General use
+511,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,4.6,Medium,PG,0.7,Everyday humor,Party joke
+512,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,3.0,Long,G,0.7,Science joke,Party joke
+513,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,4.6,Medium,Adult,0.8,Tech reference,Icebreaker
+514,What’s orange and sounds like a parrot? A carrot!,Pun,4.7,Medium,Adult,0.8,Wordplay,Kids' party
+515,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.5,Medium,Adult,0.9,Everyday humor,Office humor
+516,Why did the golfer bring two pairs of pants? In case he got a hole in one.,Pun,4.6,Medium,G,0.9,Sports reference,Office humor
+517,I’m on a whiskey diet. I’ve lost three days already.,One-liner,3.1,Short,PG,0.9,Alcohol reference,Party joke
+518,Why don’t skeletons fight each other? They don’t have the guts.,Pun,3.3,Long,PG,0.9,Halloween reference,Party joke
+519,Why was the math book sad? It had too many problems.,Pun,4.5,Short,PG,0.7,Math joke,General use
+520,"My boss told me to have a good day, so I went home.",One-liner,4.0,Medium,G,0.9,Work humor,General use
+521,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,3.6,Short,G,0.8,Everyday humor,Kids' party
+522,I told my wife she should embrace her mistakes. She gave me a hug.,One-liner,4.2,Short,G,0.5,Everyday humor,Office humor
+523,"I got hit in the head with a can of soda. Luckily, it was a soft drink.",Pun,4.7,Long,Adult,0.8,Everyday humor,Party joke
+524,"My boss told me to have a good day, so I went home.",One-liner,3.8,Long,G,0.7,Work humor,Party joke
+525,"Did you hear about the restaurant on the moon? Great food, no atmosphere.",One-liner,3.7,Short,Adult,1.0,Science joke,General use
+526,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.1,Short,PG,0.6,Science joke,Office humor
+527,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,3.8,Short,G,0.6,Seafood reference,Party joke
+528,Why don’t programmers like nature? It has too many bugs.,Pun,4.4,Medium,G,0.8,Tech reference,Icebreaker
+529,How do you organize a space party? You planet.,Pun,5.0,Long,Adult,0.6,Science joke,Icebreaker
+530,"What did the ocean say to the beach? Nothing, it just waved.",Pun,4.1,Long,G,0.9,Nature reference,Kids' party
+531,"I used to play piano by ear, but now I use my hands.",One-liner,4.9,Long,G,0.7,Music reference,Icebreaker
+532,Why was the math book sad? It had too many problems.,Pun,4.6,Medium,PG,0.7,Math joke,Party joke
+533,Why did the golfer bring two pairs of pants? In case he got a hole in one.,Pun,4.5,Short,G,1.0,Sports reference,Kids' party
+534,Did you hear about the mathematician who’s afraid of negative numbers? He will stop at nothing to avoid them.,Pun,3.2,Short,G,0.8,Math joke,Party joke
+535,Why don’t skeletons fight each other? They don’t have the guts.,Pun,4.9,Medium,G,0.9,Halloween reference,Icebreaker
+536,How does a penguin build its house? Igloos it together!,Pun,4.5,Medium,PG,0.5,Animal reference,Party joke
+537,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,3.6,Short,PG,0.8,Everyday humor,Office humor
+538,Why don’t programmers like nature? It has too many bugs.,Pun,4.4,Long,Adult,0.6,Tech reference,Office humor
+539,"Did you hear about the restaurant on the moon? Great food, no atmosphere.",One-liner,4.0,Long,PG,0.6,Science joke,Icebreaker
+540,Why don’t skeletons fight each other? They don’t have the guts.,Pun,3.3,Medium,PG,0.8,Halloween reference,Kids' party
+541,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.4,Short,PG,0.6,Everyday humor,Party joke
+542,"My boss told me to have a good day, so I went home.",One-liner,4.6,Medium,PG,0.9,Work humor,Party joke
+543,Why was the math book sad? It had too many problems.,Pun,3.0,Long,Adult,0.9,Math joke,Party joke
+544,Why don’t skeletons fight each other? They don’t have the guts.,Pun,3.9,Long,Adult,0.8,Halloween reference,Icebreaker
+545,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.6,Short,PG,0.8,Science joke,Icebreaker
+546,Why don’t skeletons fight each other? They don’t have the guts.,Pun,3.8,Long,Adult,0.9,Halloween reference,General use
+547,Why don’t scientists trust atoms? Because they make up everything!,Pun,3.2,Short,PG,0.7,Science joke,Office humor
+548,"Did you hear about the restaurant on the moon? Great food, no atmosphere.",One-liner,3.3,Medium,G,0.5,Science joke,General use
+549,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,4.6,Medium,PG,1.0,Tech reference,General use
+550,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,3.7,Short,Adult,0.7,Everyday humor,Party joke
+551,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.6,Short,Adult,0.7,Agricultural reference,Kids' party
+552,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.5,Short,PG,0.7,Science joke,Office humor
+553,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.4,Medium,G,1.0,Agricultural reference,Party joke
+554,Why was the math book sad? It had too many problems.,Pun,4.3,Medium,G,0.7,Math joke,Office humor
+555,Why don’t programmers like nature? It has too many bugs.,Pun,4.1,Short,PG,0.7,Tech reference,Kids' party
+556,Why don’t skeletons fight each other? They don’t have the guts.,Pun,3.3,Short,G,0.7,Halloween reference,Icebreaker
+557,Want to hear a joke about construction? I’m still working on it.,Pun,3.9,Long,Adult,0.5,Everyday humor,General use
+558,"I got hit in the head with a can of soda. Luckily, it was a soft drink.",Pun,4.9,Short,Adult,0.5,Everyday humor,Icebreaker
+559,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.5,Medium,Adult,0.9,Agricultural reference,Party joke
+560,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,4.8,Long,Adult,0.7,Science joke,General use
+561,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.3,Medium,PG,1.0,Everyday humor,Kids' party
+562,I would avoid the sushi if I was you. It’s a little fishy.,Pun,4.5,Long,G,0.9,Food reference,Party joke
+563,How does a penguin build its house? Igloos it together!,Pun,3.4,Medium,Adult,0.6,Animal reference,Office humor
+564,I’m on a whiskey diet. I’ve lost three days already.,One-liner,5.0,Short,PG,0.6,Alcohol reference,Kids' party
+565,What’s orange and sounds like a parrot? A carrot!,Pun,4.7,Short,Adult,1.0,Wordplay,Icebreaker
+566,Why did the golfer bring two pairs of pants? In case he got a hole in one.,Pun,4.3,Medium,PG,0.6,Sports reference,Party joke
+567,How do you organize a space party? You planet.,Pun,3.2,Medium,G,0.7,Science joke,Icebreaker
+568,"What did the ocean say to the beach? Nothing, it just waved.",Pun,4.4,Short,Adult,0.7,Nature reference,Kids' party
+569,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,4.0,Short,Adult,0.8,Science joke,Icebreaker
+570,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,4.1,Short,PG,1.0,Everyday humor,Icebreaker
+571,Want to hear a joke about construction? I’m still working on it.,Pun,4.6,Medium,Adult,0.9,Everyday humor,Office humor
+572,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,3.4,Short,G,0.6,Everyday humor,General use
+573,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.1,Long,Adult,0.9,Science joke,Party joke
+574,How does a penguin build its house? Igloos it together!,Pun,4.8,Long,Adult,0.9,Animal reference,Icebreaker
+575,Parallel lines have so much in common. It’s a shame they’ll never meet.,Pun,4.7,Medium,PG,1.0,Math joke,Office humor
+576,Why did the golfer bring two pairs of pants? In case he got a hole in one.,Pun,5.0,Medium,Adult,0.9,Sports reference,Party joke
+577,"My boss told me to have a good day, so I went home.",One-liner,3.8,Long,G,0.9,Work humor,Kids' party
+578,Why don’t skeletons fight each other? They don’t have the guts.,Pun,3.7,Long,PG,0.9,Halloween reference,Party joke
+579,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,4.9,Medium,PG,0.7,Everyday humor,General use
+580,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,4.2,Short,PG,0.8,Seafood reference,General use
+581,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,4.4,Short,Adult,1.0,Tech reference,Kids' party
+582,Did you hear about the mathematician who’s afraid of negative numbers? He will stop at nothing to avoid them.,Pun,4.1,Short,Adult,0.8,Math joke,Kids' party
+583,"What did the ocean say to the beach? Nothing, it just waved.",Pun,3.8,Long,G,0.5,Nature reference,Party joke
+584,What’s orange and sounds like a parrot? A carrot!,Pun,4.1,Short,Adult,0.9,Wordplay,Office humor
+585,"What did the ocean say to the beach? Nothing, it just waved.",Pun,4.0,Long,PG,0.7,Nature reference,Office humor
+586,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,4.2,Long,PG,0.9,Everyday humor,Party joke
+587,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.1,Medium,PG,0.6,Agricultural reference,Icebreaker
+588,I would avoid the sushi if I was you. It’s a little fishy.,Pun,3.5,Short,Adult,0.9,Food reference,Office humor
+589,"Did you hear about the restaurant on the moon? Great food, no atmosphere.",One-liner,3.4,Medium,Adult,0.7,Science joke,Icebreaker
+590,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,3.8,Medium,PG,0.9,Science joke,Office humor
+591,I told my wife she should embrace her mistakes. She gave me a hug.,One-liner,3.4,Short,PG,0.8,Everyday humor,Party joke
+592,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,3.8,Long,G,0.8,Tech reference,Kids' party
+593,Why did the golfer bring two pairs of pants? In case he got a hole in one.,Pun,4.1,Short,Adult,0.7,Sports reference,Kids' party
+594,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,3.1,Long,PG,0.6,Everyday humor,Party joke
+595,Why don’t scientists trust atoms? Because they make up everything!,Pun,3.6,Short,PG,1.0,Science joke,Icebreaker
+596,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.7,Medium,PG,0.6,Everyday humor,Party joke
+597,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,4.6,Long,Adult,0.5,Seafood reference,Icebreaker
+598,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.6,Medium,G,0.6,Everyday humor,Kids' party
+599,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.6,Medium,PG,0.7,Everyday humor,Kids' party
+600,"I got hit in the head with a can of soda. Luckily, it was a soft drink.",Pun,4.9,Medium,Adult,0.6,Everyday humor,General use
+601,Why did the bicycle fall over? Because it was two-tired.,Pun,3.6,Long,Adult,0.7,Transportation reference,Icebreaker
+602,Why did the bicycle fall over? Because it was two-tired.,Pun,4.4,Medium,G,0.8,Transportation reference,Kids' party
+603,"What did the ocean say to the beach? Nothing, it just waved.",Pun,3.7,Short,Adult,0.8,Nature reference,Party joke
+604,Want to hear a joke about construction? I’m still working on it.,Pun,4.1,Short,Adult,0.8,Everyday humor,Party joke
+605,Why did the golfer bring two pairs of pants? In case he got a hole in one.,Pun,3.9,Short,G,0.7,Sports reference,Icebreaker
+606,Did you hear about the mathematician who’s afraid of negative numbers? He will stop at nothing to avoid them.,Pun,4.2,Short,Adult,0.8,Math joke,Icebreaker
+607,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.2,Short,PG,0.6,Everyday humor,General use
+608,How does a penguin build its house? Igloos it together!,Pun,3.3,Long,G,0.7,Animal reference,Icebreaker
+609,I’m on a whiskey diet. I’ve lost three days already.,One-liner,4.9,Short,G,0.8,Alcohol reference,Office humor
+610,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.2,Short,G,0.9,Science joke,Icebreaker
+611,I’m on a whiskey diet. I’ve lost three days already.,One-liner,3.8,Long,Adult,0.9,Alcohol reference,Kids' party
+612,"What did the ocean say to the beach? Nothing, it just waved.",Pun,3.1,Long,Adult,0.5,Nature reference,Party joke
+613,Why did the golfer bring two pairs of pants? In case he got a hole in one.,Pun,3.8,Short,Adult,0.9,Sports reference,Icebreaker
+614,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,4.3,Short,Adult,1.0,Everyday humor,Icebreaker
+615,How do you organize a space party? You planet.,Pun,3.6,Long,PG,1.0,Science joke,General use
+616,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.8,Short,G,0.6,Science joke,General use
+617,I’m on a whiskey diet. I’ve lost three days already.,One-liner,3.9,Short,Adult,0.9,Alcohol reference,Office humor
+618,I would avoid the sushi if I was you. It’s a little fishy.,Pun,3.7,Medium,G,0.9,Food reference,Party joke
+619,"What did the ocean say to the beach? Nothing, it just waved.",Pun,4.4,Long,G,0.9,Nature reference,Party joke
+620,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.1,Long,G,0.7,Agricultural reference,General use
+621,"I used to play piano by ear, but now I use my hands.",One-liner,3.3,Short,G,0.9,Music reference,General use
+622,Why did the bicycle fall over? Because it was two-tired.,Pun,4.2,Medium,G,0.9,Transportation reference,Icebreaker
+623,I would avoid the sushi if I was you. It’s a little fishy.,Pun,3.2,Short,Adult,0.6,Food reference,General use
+624,"I used to play piano by ear, but now I use my hands.",One-liner,4.6,Short,G,0.8,Music reference,Kids' party
+625,What’s orange and sounds like a parrot? A carrot!,Pun,3.6,Medium,Adult,0.6,Wordplay,Office humor
+626,"My boss told me to have a good day, so I went home.",One-liner,3.2,Short,Adult,0.9,Work humor,Party joke
+627,"Did you hear about the restaurant on the moon? Great food, no atmosphere.",One-liner,3.5,Medium,G,0.6,Science joke,Office humor
+628,How does a penguin build its house? Igloos it together!,Pun,3.4,Short,PG,0.8,Animal reference,Kids' party
+629,Want to hear a joke about construction? I’m still working on it.,Pun,3.4,Long,G,0.5,Everyday humor,Party joke
+630,Why did the bicycle fall over? Because it was two-tired.,Pun,4.9,Long,PG,0.7,Transportation reference,Icebreaker
+631,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.5,Medium,PG,0.9,Everyday humor,Icebreaker
+632,I told my wife she should embrace her mistakes. She gave me a hug.,One-liner,3.0,Short,Adult,0.7,Everyday humor,Kids' party
+633,I told my wife she should embrace her mistakes. She gave me a hug.,One-liner,4.9,Medium,G,0.8,Everyday humor,General use
+634,I would avoid the sushi if I was you. It’s a little fishy.,Pun,4.4,Short,Adult,0.5,Food reference,Office humor
+635,How do you organize a space party? You planet.,Pun,3.9,Short,G,0.7,Science joke,General use
+636,"I got hit in the head with a can of soda. Luckily, it was a soft drink.",Pun,4.1,Short,G,1.0,Everyday humor,General use
+637,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.4,Medium,Adult,0.7,Everyday humor,Icebreaker
+638,"What did the ocean say to the beach? Nothing, it just waved.",Pun,3.2,Long,Adult,0.7,Nature reference,General use
+639,How do you organize a space party? You planet.,Pun,4.0,Long,PG,0.5,Science joke,Office humor
+640,"What did the ocean say to the beach? Nothing, it just waved.",Pun,3.4,Long,G,0.9,Nature reference,General use
+641,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.2,Short,Adult,0.6,Science joke,General use
+642,Why was the math book sad? It had too many problems.,Pun,4.8,Short,G,0.7,Math joke,General use
+643,Why did the golfer bring two pairs of pants? In case he got a hole in one.,Pun,3.3,Long,G,0.8,Sports reference,Icebreaker
+644,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,4.6,Medium,PG,0.7,Everyday humor,Office humor
+645,Why don’t scientists trust atoms? Because they make up everything!,Pun,3.5,Medium,Adult,0.5,Science joke,Icebreaker
+646,"Did you hear about the restaurant on the moon? Great food, no atmosphere.",One-liner,3.8,Long,PG,0.6,Science joke,Party joke
+647,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.5,Short,G,0.9,Everyday humor,General use
+648,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,3.0,Short,Adult,0.8,Everyday humor,Kids' party
+649,What’s orange and sounds like a parrot? A carrot!,Pun,4.3,Short,Adult,0.8,Wordplay,Icebreaker
+650,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,3.5,Short,PG,0.6,Seafood reference,Kids' party
+651,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.8,Long,Adult,1.0,Science joke,General use
+652,Why don’t skeletons fight each other? They don’t have the guts.,Pun,4.6,Long,G,0.9,Halloween reference,Icebreaker
+653,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,3.6,Medium,G,1.0,Seafood reference,Kids' party
+654,How do you organize a space party? You planet.,Pun,3.2,Short,PG,0.8,Science joke,Office humor
+655,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,3.7,Short,PG,0.8,Tech reference,Icebreaker
+656,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.5,Medium,Adult,0.6,Science joke,Icebreaker
+657,Want to hear a joke about construction? I’m still working on it.,Pun,4.3,Long,PG,0.8,Everyday humor,Office humor
+658,"I got hit in the head with a can of soda. Luckily, it was a soft drink.",Pun,3.2,Long,PG,0.8,Everyday humor,Kids' party
+659,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.2,Long,G,0.7,Everyday humor,Kids' party
+660,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,3.3,Medium,PG,1.0,Everyday humor,General use
+661,Why don’t scientists trust atoms? Because they make up everything!,Pun,3.3,Long,Adult,0.9,Science joke,General use
+662,How does a penguin build its house? Igloos it together!,Pun,3.2,Long,G,0.8,Animal reference,Party joke
+663,Why don’t skeletons fight each other? They don’t have the guts.,Pun,4.5,Short,PG,0.9,Halloween reference,Kids' party
+664,How does a penguin build its house? Igloos it together!,Pun,4.3,Short,G,0.9,Animal reference,Party joke
+665,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.7,Short,G,0.6,Science joke,Office humor
+666,How does a penguin build its house? Igloos it together!,Pun,3.0,Long,Adult,0.8,Animal reference,Party joke
+667,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.8,Short,PG,0.5,Everyday humor,Kids' party
+668,Did you hear about the mathematician who’s afraid of negative numbers? He will stop at nothing to avoid them.,Pun,4.8,Medium,G,0.9,Math joke,Party joke
+669,I would avoid the sushi if I was you. It’s a little fishy.,Pun,4.4,Medium,Adult,0.7,Food reference,General use
+670,I’m on a whiskey diet. I’ve lost three days already.,One-liner,4.0,Medium,G,0.7,Alcohol reference,Icebreaker
+671,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,3.1,Short,G,0.7,Everyday humor,Kids' party
+672,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,3.4,Medium,PG,0.9,Tech reference,Office humor
+673,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.2,Long,PG,0.8,Agricultural reference,Office humor
+674,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.2,Long,Adult,0.7,Everyday humor,Icebreaker
+675,Why don’t scientists trust atoms? Because they make up everything!,Pun,3.4,Short,Adult,0.9,Science joke,Kids' party
+676,Want to hear a joke about construction? I’m still working on it.,Pun,3.9,Medium,PG,1.0,Everyday humor,Icebreaker
+677,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,3.2,Short,PG,0.7,Everyday humor,Office humor
+678,Why don’t skeletons fight each other? They don’t have the guts.,Pun,4.3,Medium,G,0.7,Halloween reference,General use
+679,Why don’t skeletons fight each other? They don’t have the guts.,Pun,3.0,Short,PG,0.7,Halloween reference,Kids' party
+680,"Did you hear about the restaurant on the moon? Great food, no atmosphere.",One-liner,3.8,Short,Adult,0.7,Science joke,General use
+681,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.6,Medium,Adult,0.9,Science joke,Office humor
+682,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,3.9,Long,Adult,0.8,Everyday humor,Icebreaker
+683,Why don’t programmers like nature? It has too many bugs.,Pun,3.5,Short,Adult,0.7,Tech reference,Office humor
+684,Parallel lines have so much in common. It’s a shame they’ll never meet.,Pun,4.4,Short,Adult,0.7,Math joke,General use
+685,I would avoid the sushi if I was you. It’s a little fishy.,Pun,4.0,Medium,PG,0.8,Food reference,Office humor
+686,Why don’t scientists trust atoms? Because they make up everything!,Pun,3.7,Short,PG,0.6,Science joke,Party joke
+687,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.0,Short,PG,0.9,Everyday humor,Kids' party
+688,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,5.0,Medium,Adult,0.5,Everyday humor,Office humor
+689,"My boss told me to have a good day, so I went home.",One-liner,4.6,Short,PG,0.8,Work humor,General use
+690,"I used to play piano by ear, but now I use my hands.",One-liner,4.3,Short,PG,0.6,Music reference,Icebreaker
+691,"I got hit in the head with a can of soda. Luckily, it was a soft drink.",Pun,4.9,Long,G,1.0,Everyday humor,Icebreaker
+692,"I got hit in the head with a can of soda. Luckily, it was a soft drink.",Pun,3.8,Long,G,0.7,Everyday humor,Office humor
+693,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,5.0,Short,PG,0.8,Tech reference,Kids' party
+694,Why did the bicycle fall over? Because it was two-tired.,Pun,3.2,Long,PG,0.9,Transportation reference,Kids' party
+695,I’m on a whiskey diet. I’ve lost three days already.,One-liner,4.9,Long,G,0.9,Alcohol reference,Office humor
+696,How do you organize a space party? You planet.,Pun,3.7,Long,PG,0.9,Science joke,Office humor
+697,"My boss told me to have a good day, so I went home.",One-liner,4.3,Medium,G,1.0,Work humor,Kids' party
+698,"What did the ocean say to the beach? Nothing, it just waved.",Pun,3.9,Short,PG,0.5,Nature reference,Kids' party
+699,Why don’t skeletons fight each other? They don’t have the guts.,Pun,3.7,Medium,G,0.5,Halloween reference,General use
+700,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,4.9,Long,G,1.0,Science joke,Office humor
+701,Why don’t scientists trust atoms? Because they make up everything!,Pun,3.9,Medium,PG,0.8,Science joke,Kids' party
+702,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.0,Medium,G,0.8,Everyday humor,Party joke
+703,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.7,Medium,G,0.8,Science joke,Party joke
+704,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.3,Long,G,0.5,Everyday humor,Office humor
+705,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.7,Medium,PG,0.9,Science joke,Office humor
+706,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,4.4,Long,PG,0.6,Seafood reference,Office humor
+707,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,4.4,Short,Adult,0.7,Science joke,General use
+708,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.4,Short,G,0.8,Agricultural reference,Office humor
+709,Why was the math book sad? It had too many problems.,Pun,4.5,Medium,PG,0.9,Math joke,Icebreaker
+710,What’s orange and sounds like a parrot? A carrot!,Pun,4.1,Short,G,0.8,Wordplay,Icebreaker
+711,Why did the golfer bring two pairs of pants? In case he got a hole in one.,Pun,4.4,Medium,PG,0.8,Sports reference,Office humor
+712,Want to hear a joke about construction? I’m still working on it.,Pun,3.4,Medium,Adult,0.7,Everyday humor,Kids' party
+713,Why don’t scientists trust atoms? Because they make up everything!,Pun,3.6,Long,PG,0.8,Science joke,Party joke
+714,Why don’t skeletons fight each other? They don’t have the guts.,Pun,4.8,Long,Adult,0.5,Halloween reference,General use
+715,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,4.9,Medium,Adult,0.6,Everyday humor,Kids' party
+716,Why don’t scientists trust atoms? Because they make up everything!,Pun,3.8,Long,G,0.9,Science joke,General use
+717,Did you hear about the mathematician who’s afraid of negative numbers? He will stop at nothing to avoid them.,Pun,3.2,Medium,PG,0.6,Math joke,Office humor
+718,"Did you hear about the restaurant on the moon? Great food, no atmosphere.",One-liner,3.3,Medium,G,0.9,Science joke,Kids' party
+719,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,3.8,Short,Adult,0.8,Science joke,General use
+720,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,3.1,Short,PG,0.5,Everyday humor,Party joke
+721,"Did you hear about the restaurant on the moon? Great food, no atmosphere.",One-liner,3.3,Medium,G,0.6,Science joke,General use
+722,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.6,Long,PG,0.7,Agricultural reference,Office humor
+723,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,4.6,Medium,PG,0.5,Everyday humor,General use
+724,Why don’t programmers like nature? It has too many bugs.,Pun,3.9,Medium,Adult,0.7,Tech reference,Party joke
+725,How do you organize a space party? You planet.,Pun,4.1,Long,Adult,0.8,Science joke,Icebreaker
+726,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,3.8,Medium,PG,0.8,Seafood reference,General use
+727,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,3.5,Short,Adult,0.8,Everyday humor,Office humor
+728,How do you organize a space party? You planet.,Pun,3.2,Medium,PG,0.7,Science joke,Office humor
+729,I told my wife she should embrace her mistakes. She gave me a hug.,One-liner,4.4,Long,PG,0.7,Everyday humor,Office humor
+730,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.5,Long,PG,0.9,Agricultural reference,Kids' party
+731,Want to hear a joke about construction? I’m still working on it.,Pun,4.5,Long,Adult,0.9,Everyday humor,Icebreaker
+732,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.0,Medium,PG,0.9,Agricultural reference,Party joke
+733,"What did the ocean say to the beach? Nothing, it just waved.",Pun,3.3,Medium,PG,1.0,Nature reference,General use
+734,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.9,Medium,Adult,0.8,Agricultural reference,Party joke
+735,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,3.8,Medium,PG,0.5,Seafood reference,Party joke
+736,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,3.3,Long,Adult,0.6,Everyday humor,Party joke
+737,Why don’t programmers like nature? It has too many bugs.,Pun,4.8,Long,Adult,0.8,Tech reference,Party joke
+738,"My boss told me to have a good day, so I went home.",One-liner,3.5,Short,G,0.6,Work humor,Party joke
+739,Parallel lines have so much in common. It’s a shame they’ll never meet.,Pun,5.0,Short,Adult,0.5,Math joke,Party joke
+740,Why did the bicycle fall over? Because it was two-tired.,Pun,3.2,Short,G,0.6,Transportation reference,Office humor
+741,Why don’t programmers like nature? It has too many bugs.,Pun,4.3,Short,G,0.8,Tech reference,General use
+742,Why don’t skeletons fight each other? They don’t have the guts.,Pun,3.4,Medium,G,1.0,Halloween reference,Party joke
+743,Why don’t programmers like nature? It has too many bugs.,Pun,3.7,Medium,Adult,0.6,Tech reference,Kids' party
+744,I’m on a whiskey diet. I’ve lost three days already.,One-liner,4.7,Short,G,0.9,Alcohol reference,Office humor
+745,How do you organize a space party? You planet.,Pun,4.8,Short,PG,0.9,Science joke,Party joke
+746,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,3.9,Long,Adult,0.9,Science joke,Kids' party
+747,What’s orange and sounds like a parrot? A carrot!,Pun,4.6,Short,PG,0.9,Wordplay,Kids' party
+748,Why don’t scientists trust atoms? Because they make up everything!,Pun,5.0,Medium,Adult,0.8,Science joke,Office humor
+749,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,3.8,Medium,PG,0.9,Science joke,Kids' party
+750,Parallel lines have so much in common. It’s a shame they’ll never meet.,Pun,4.3,Medium,G,0.7,Math joke,Office humor
+751,What’s orange and sounds like a parrot? A carrot!,Pun,3.6,Long,PG,1.0,Wordplay,Office humor
+752,"I used to play piano by ear, but now I use my hands.",One-liner,5.0,Long,Adult,0.8,Music reference,General use
+753,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.3,Medium,G,1.0,Agricultural reference,Office humor
+754,"I used to play piano by ear, but now I use my hands.",One-liner,4.5,Medium,PG,1.0,Music reference,Kids' party
+755,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.6,Long,Adult,0.7,Everyday humor,General use
+756,Why did the bicycle fall over? Because it was two-tired.,Pun,4.2,Medium,PG,0.9,Transportation reference,Icebreaker
+757,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.1,Long,Adult,0.8,Agricultural reference,Kids' party
+758,"What did the ocean say to the beach? Nothing, it just waved.",Pun,3.1,Short,PG,0.6,Nature reference,Office humor
+759,"Did you hear about the restaurant on the moon? Great food, no atmosphere.",One-liner,3.5,Long,Adult,0.8,Science joke,Icebreaker
+760,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,3.9,Short,G,1.0,Tech reference,Kids' party
+761,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.6,Short,PG,0.8,Everyday humor,Kids' party
+762,How does a penguin build its house? Igloos it together!,Pun,4.4,Short,G,0.9,Animal reference,Icebreaker
+763,"My boss told me to have a good day, so I went home.",One-liner,3.9,Medium,Adult,0.6,Work humor,Office humor
+764,Why don’t scientists trust atoms? Because they make up everything!,Pun,3.8,Medium,G,0.8,Science joke,Icebreaker
+765,Why don’t programmers like nature? It has too many bugs.,Pun,3.9,Medium,Adult,0.8,Tech reference,Kids' party
+766,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.6,Short,PG,1.0,Everyday humor,Office humor
+767,Why don’t skeletons fight each other? They don’t have the guts.,Pun,4.1,Medium,Adult,0.9,Halloween reference,Kids' party
+768,"What did the ocean say to the beach? Nothing, it just waved.",Pun,3.4,Medium,Adult,0.9,Nature reference,Kids' party
+769,Parallel lines have so much in common. It’s a shame they’ll never meet.,Pun,3.5,Short,Adult,0.5,Math joke,Party joke
+770,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.8,Long,PG,0.7,Everyday humor,General use
+771,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.3,Medium,Adult,0.7,Everyday humor,Party joke
+772,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,5.0,Long,Adult,0.8,Tech reference,Icebreaker
+773,"Did you hear about the restaurant on the moon? Great food, no atmosphere.",One-liner,4.9,Short,PG,0.6,Science joke,Kids' party
+774,How does a penguin build its house? Igloos it together!,Pun,4.4,Short,Adult,0.9,Animal reference,Party joke
+775,How does a penguin build its house? Igloos it together!,Pun,4.4,Short,Adult,0.8,Animal reference,Kids' party
+776,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,4.3,Medium,PG,0.6,Science joke,Icebreaker
+777,Parallel lines have so much in common. It’s a shame they’ll never meet.,Pun,4.6,Medium,Adult,0.8,Math joke,Icebreaker
+778,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,3.5,Medium,G,0.7,Seafood reference,Icebreaker
+779,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.5,Long,PG,0.5,Everyday humor,General use
+780,I told my wife she should embrace her mistakes. She gave me a hug.,One-liner,3.5,Long,Adult,0.6,Everyday humor,Icebreaker
+781,Why don’t skeletons fight each other? They don’t have the guts.,Pun,4.0,Long,PG,0.6,Halloween reference,Icebreaker
+782,"I got hit in the head with a can of soda. Luckily, it was a soft drink.",Pun,3.9,Long,Adult,0.7,Everyday humor,General use
+783,Why don’t skeletons fight each other? They don’t have the guts.,Pun,3.0,Short,G,0.9,Halloween reference,Party joke
+784,Why don’t scientists trust atoms? Because they make up everything!,Pun,5.0,Medium,Adult,0.7,Science joke,Icebreaker
+785,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,4.6,Medium,G,0.9,Science joke,Party joke
+786,"Did you hear about the restaurant on the moon? Great food, no atmosphere.",One-liner,3.4,Long,Adult,0.7,Science joke,Party joke
+787,What’s orange and sounds like a parrot? A carrot!,Pun,4.3,Short,G,0.8,Wordplay,General use
+788,Why don’t skeletons fight each other? They don’t have the guts.,Pun,4.2,Medium,G,0.8,Halloween reference,General use
+789,Why did the bicycle fall over? Because it was two-tired.,Pun,3.6,Medium,Adult,0.9,Transportation reference,General use
+790,I told my wife she should embrace her mistakes. She gave me a hug.,One-liner,5.0,Long,PG,0.8,Everyday humor,General use
+791,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.5,Medium,G,0.7,Everyday humor,Kids' party
+792,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.8,Long,G,0.9,Science joke,Kids' party
+793,Why don’t scientists trust atoms? Because they make up everything!,Pun,3.2,Medium,PG,0.9,Science joke,Kids' party
+794,Why don’t skeletons fight each other? They don’t have the guts.,Pun,3.1,Medium,PG,0.7,Halloween reference,Kids' party
+795,Why did the golfer bring two pairs of pants? In case he got a hole in one.,Pun,4.6,Long,G,0.8,Sports reference,Party joke
+796,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.8,Short,PG,0.7,Everyday humor,Party joke
+797,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,3.7,Medium,G,0.8,Tech reference,Kids' party
+798,"Did you hear about the restaurant on the moon? Great food, no atmosphere.",One-liner,3.8,Long,PG,0.9,Science joke,Office humor
+799,"Did you hear about the restaurant on the moon? Great food, no atmosphere.",One-liner,3.2,Medium,Adult,0.9,Science joke,Kids' party
+800,Parallel lines have so much in common. It’s a shame they’ll never meet.,Pun,4.4,Medium,Adult,0.5,Math joke,Icebreaker
+801,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,4.9,Long,PG,0.7,Science joke,Party joke
+802,Parallel lines have so much in common. It’s a shame they’ll never meet.,Pun,4.3,Long,Adult,0.6,Math joke,Kids' party
+803,Why did the bicycle fall over? Because it was two-tired.,Pun,3.8,Long,PG,1.0,Transportation reference,General use
+804,What’s orange and sounds like a parrot? A carrot!,Pun,4.5,Long,Adult,0.6,Wordplay,Kids' party
+805,Why did the golfer bring two pairs of pants? In case he got a hole in one.,Pun,3.5,Medium,Adult,0.7,Sports reference,Office humor
+806,"My boss told me to have a good day, so I went home.",One-liner,4.1,Short,PG,0.6,Work humor,Icebreaker
+807,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,4.6,Long,G,1.0,Seafood reference,Party joke
+808,What’s orange and sounds like a parrot? A carrot!,Pun,3.2,Short,PG,0.8,Wordplay,General use
+809,How do you organize a space party? You planet.,Pun,3.7,Medium,Adult,0.8,Science joke,General use
+810,Why did the bicycle fall over? Because it was two-tired.,Pun,3.4,Short,G,0.9,Transportation reference,Office humor
+811,Why don’t programmers like nature? It has too many bugs.,Pun,4.6,Medium,G,0.9,Tech reference,Party joke
+812,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.5,Long,G,1.0,Everyday humor,Office humor
+813,How does a penguin build its house? Igloos it together!,Pun,3.9,Medium,G,0.9,Animal reference,Icebreaker
+814,How does a penguin build its house? Igloos it together!,Pun,4.0,Medium,Adult,0.8,Animal reference,Office humor
+815,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.5,Short,PG,0.5,Everyday humor,Party joke
+816,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.1,Long,G,0.7,Agricultural reference,General use
+817,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,4.3,Short,Adult,0.9,Seafood reference,General use
+818,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,3.7,Long,G,0.6,Seafood reference,General use
+819,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.2,Medium,Adult,0.6,Science joke,Party joke
+820,How do you organize a space party? You planet.,Pun,4.3,Long,Adult,0.5,Science joke,Icebreaker
+821,Why don’t programmers like nature? It has too many bugs.,Pun,5.0,Medium,G,0.7,Tech reference,Party joke
+822,Why don’t skeletons fight each other? They don’t have the guts.,Pun,3.0,Medium,G,0.6,Halloween reference,Kids' party
+823,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,4.7,Medium,G,0.5,Tech reference,Kids' party
+824,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,3.7,Short,PG,0.7,Seafood reference,Kids' party
+825,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,4.4,Short,PG,0.9,Everyday humor,Kids' party
+826,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.2,Medium,PG,0.6,Agricultural reference,General use
+827,Why don’t skeletons fight each other? They don’t have the guts.,Pun,3.4,Short,Adult,0.6,Halloween reference,Icebreaker
+828,Parallel lines have so much in common. It’s a shame they’ll never meet.,Pun,4.9,Short,PG,0.9,Math joke,Party joke
+829,Why did the golfer bring two pairs of pants? In case he got a hole in one.,Pun,3.3,Medium,Adult,1.0,Sports reference,Kids' party
+830,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.5,Medium,Adult,0.5,Agricultural reference,Party joke
+831,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.4,Long,G,0.9,Agricultural reference,Icebreaker
+832,Why was the math book sad? It had too many problems.,Pun,4.0,Short,G,0.9,Math joke,General use
+833,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,3.8,Long,Adult,0.5,Seafood reference,General use
+834,How do you organize a space party? You planet.,Pun,4.3,Long,PG,0.7,Science joke,General use
+835,Why don’t programmers like nature? It has too many bugs.,Pun,3.6,Short,Adult,0.6,Tech reference,Kids' party
+836,Why don’t skeletons fight each other? They don’t have the guts.,Pun,3.8,Long,PG,0.7,Halloween reference,Party joke
+837,Why don’t programmers like nature? It has too many bugs.,Pun,3.3,Short,G,0.6,Tech reference,Icebreaker
+838,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.7,Medium,Adult,0.9,Everyday humor,General use
+839,"My boss told me to have a good day, so I went home.",One-liner,5.0,Short,PG,0.6,Work humor,Kids' party
+840,"I got hit in the head with a can of soda. Luckily, it was a soft drink.",Pun,3.2,Short,Adult,1.0,Everyday humor,Icebreaker
+841,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.4,Short,Adult,0.6,Everyday humor,General use
+842,I told my wife she should embrace her mistakes. She gave me a hug.,One-liner,4.0,Short,Adult,0.8,Everyday humor,Office humor
+843,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,3.3,Long,PG,1.0,Everyday humor,Icebreaker
+844,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,4.8,Medium,Adult,0.9,Science joke,Kids' party
+845,Did you hear about the mathematician who’s afraid of negative numbers? He will stop at nothing to avoid them.,Pun,3.5,Medium,PG,0.8,Math joke,Office humor
+846,Why was the math book sad? It had too many problems.,Pun,3.9,Long,G,1.0,Math joke,Party joke
+847,How does a penguin build its house? Igloos it together!,Pun,3.0,Long,PG,0.7,Animal reference,Icebreaker
+848,"What did the ocean say to the beach? Nothing, it just waved.",Pun,3.9,Long,G,0.6,Nature reference,General use
+849,Why don’t skeletons fight each other? They don’t have the guts.,Pun,3.1,Long,PG,0.6,Halloween reference,Office humor
+850,What’s orange and sounds like a parrot? A carrot!,Pun,3.7,Long,PG,0.8,Wordplay,Office humor
+851,What’s orange and sounds like a parrot? A carrot!,Pun,3.3,Medium,PG,0.8,Wordplay,Icebreaker
+852,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,4.4,Medium,Adult,0.9,Science joke,Party joke
+853,I’m on a whiskey diet. I’ve lost three days already.,One-liner,4.8,Medium,PG,1.0,Alcohol reference,General use
+854,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.6,Medium,Adult,0.7,Agricultural reference,General use
+855,Want to hear a joke about construction? I’m still working on it.,Pun,4.1,Short,PG,0.6,Everyday humor,General use
+856,Why don’t scientists trust atoms? Because they make up everything!,Pun,3.7,Long,G,0.6,Science joke,Kids' party
+857,"I used to play piano by ear, but now I use my hands.",One-liner,3.5,Long,G,0.6,Music reference,Kids' party
+858,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,3.0,Long,G,0.8,Seafood reference,Office humor
+859,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,4.1,Short,G,0.6,Seafood reference,Kids' party
+860,How do you organize a space party? You planet.,Pun,3.2,Medium,Adult,0.6,Science joke,Kids' party
+861,How do you organize a space party? You planet.,Pun,3.5,Medium,Adult,0.9,Science joke,General use
+862,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,3.5,Short,PG,0.6,Science joke,General use
+863,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,3.6,Short,PG,0.7,Tech reference,Office humor
+864,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,3.3,Long,G,0.5,Seafood reference,General use
+865,I told my wife she should embrace her mistakes. She gave me a hug.,One-liner,4.6,Long,G,0.8,Everyday humor,Office humor
+866,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.3,Long,Adult,0.9,Science joke,Kids' party
+867,Why did the golfer bring two pairs of pants? In case he got a hole in one.,Pun,4.1,Long,PG,0.9,Sports reference,Office humor
+868,"Did you hear about the restaurant on the moon? Great food, no atmosphere.",One-liner,4.2,Long,Adult,0.5,Science joke,Office humor
+869,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,4.3,Short,Adult,0.8,Tech reference,Kids' party
+870,Why was the math book sad? It had too many problems.,Pun,3.7,Short,G,0.9,Math joke,Kids' party
+871,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.9,Long,PG,0.5,Everyday humor,Kids' party
+872,"My boss told me to have a good day, so I went home.",One-liner,3.3,Long,PG,0.7,Work humor,Office humor
+873,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,3.3,Medium,Adult,0.8,Everyday humor,Icebreaker
+874,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.7,Long,Adult,0.5,Everyday humor,General use
+875,Want to hear a joke about construction? I’m still working on it.,Pun,4.2,Long,Adult,0.6,Everyday humor,Office humor
+876,Why did the golfer bring two pairs of pants? In case he got a hole in one.,Pun,4.8,Short,Adult,0.5,Sports reference,Party joke
+877,Want to hear a joke about construction? I’m still working on it.,Pun,3.2,Medium,G,0.7,Everyday humor,Party joke
+878,Want to hear a joke about construction? I’m still working on it.,Pun,3.8,Long,Adult,0.9,Everyday humor,Party joke
+879,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,4.2,Short,Adult,0.8,Everyday humor,Kids' party
+880,Parallel lines have so much in common. It’s a shame they’ll never meet.,Pun,3.8,Long,Adult,0.7,Math joke,Icebreaker
+881,"I got hit in the head with a can of soda. Luckily, it was a soft drink.",Pun,4.2,Medium,PG,0.9,Everyday humor,General use
+882,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.6,Long,G,0.8,Agricultural reference,Icebreaker
+883,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.9,Medium,G,0.7,Agricultural reference,Kids' party
+884,I’m on a whiskey diet. I’ve lost three days already.,One-liner,4.0,Medium,G,0.5,Alcohol reference,General use
+885,"What did the ocean say to the beach? Nothing, it just waved.",Pun,4.2,Medium,G,0.7,Nature reference,Party joke
+886,Why did the bicycle fall over? Because it was two-tired.,Pun,4.3,Long,Adult,0.7,Transportation reference,Office humor
+887,Why was the math book sad? It had too many problems.,Pun,3.2,Short,PG,1.0,Math joke,Kids' party
+888,Why don’t skeletons fight each other? They don’t have the guts.,Pun,3.6,Medium,Adult,0.7,Halloween reference,General use
+889,I’m on a whiskey diet. I’ve lost three days already.,One-liner,3.8,Short,G,0.8,Alcohol reference,General use
+890,Why did the golfer bring two pairs of pants? In case he got a hole in one.,Pun,3.6,Long,PG,1.0,Sports reference,Party joke
+891,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.8,Long,Adult,0.5,Agricultural reference,Office humor
+892,"My boss told me to have a good day, so I went home.",One-liner,4.9,Short,G,1.0,Work humor,Kids' party
+893,What’s orange and sounds like a parrot? A carrot!,Pun,4.2,Medium,PG,1.0,Wordplay,General use
+894,I told my wife she should embrace her mistakes. She gave me a hug.,One-liner,3.9,Long,Adult,0.7,Everyday humor,Party joke
+895,Why don’t skeletons fight each other? They don’t have the guts.,Pun,3.1,Short,PG,0.7,Halloween reference,Icebreaker
+896,I told my wife she should embrace her mistakes. She gave me a hug.,One-liner,4.1,Medium,G,0.5,Everyday humor,Kids' party
+897,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.4,Long,PG,0.9,Everyday humor,Party joke
+898,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.6,Medium,Adult,1.0,Everyday humor,Kids' party
+899,"What did the ocean say to the beach? Nothing, it just waved.",Pun,4.6,Short,PG,0.9,Nature reference,Kids' party
+900,"What did the ocean say to the beach? Nothing, it just waved.",Pun,3.2,Short,G,0.7,Nature reference,General use
+901,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,3.4,Medium,G,0.5,Science joke,Icebreaker
+902,"My boss told me to have a good day, so I went home.",One-liner,3.6,Short,G,0.8,Work humor,Kids' party
+903,How does a penguin build its house? Igloos it together!,Pun,4.5,Long,PG,0.6,Animal reference,General use
+904,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.0,Long,PG,0.6,Everyday humor,General use
+905,How does a penguin build its house? Igloos it together!,Pun,3.9,Medium,PG,0.6,Animal reference,General use
+906,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,3.9,Short,PG,0.7,Everyday humor,Office humor
+907,Why did the golfer bring two pairs of pants? In case he got a hole in one.,Pun,3.1,Short,PG,0.9,Sports reference,Office humor
+908,I’m on a whiskey diet. I’ve lost three days already.,One-liner,4.1,Long,PG,0.5,Alcohol reference,General use
+909,Why don’t programmers like nature? It has too many bugs.,Pun,4.9,Short,Adult,0.5,Tech reference,General use
+910,Why don’t skeletons fight each other? They don’t have the guts.,Pun,4.0,Short,PG,0.8,Halloween reference,General use
+911,"I got hit in the head with a can of soda. Luckily, it was a soft drink.",Pun,3.6,Short,Adult,0.9,Everyday humor,Kids' party
+912,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,4.5,Long,PG,0.7,Seafood reference,Icebreaker
+913,"I got hit in the head with a can of soda. Luckily, it was a soft drink.",Pun,3.3,Short,G,0.6,Everyday humor,Kids' party
+914,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,4.2,Long,Adult,0.8,Seafood reference,Icebreaker
+915,What’s orange and sounds like a parrot? A carrot!,Pun,3.0,Medium,Adult,1.0,Wordplay,General use
+916,Why don’t programmers like nature? It has too many bugs.,Pun,4.6,Medium,Adult,0.8,Tech reference,General use
+917,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,3.5,Long,PG,0.7,Tech reference,Party joke
+918,"My boss told me to have a good day, so I went home.",One-liner,4.3,Short,Adult,0.9,Work humor,Office humor
+919,"I used to play piano by ear, but now I use my hands.",One-liner,4.5,Long,G,0.6,Music reference,Party joke
+920,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.4,Short,Adult,0.7,Everyday humor,Office humor
+921,"I told my computer I needed a break, and now it won’t stop sending me Kit-Kats.",Pun,3.5,Long,Adult,0.7,Tech reference,Kids' party
+922,Did you hear about the mathematician who’s afraid of negative numbers? He will stop at nothing to avoid them.,Pun,4.8,Medium,Adult,0.7,Math joke,Kids' party
+923,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.8,Short,PG,0.6,Everyday humor,Party joke
+924,Why did the bicycle fall over? Because it was two-tired.,Pun,4.4,Medium,Adult,0.5,Transportation reference,Party joke
+925,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.6,Short,Adult,0.6,Everyday humor,Party joke
+926,Parallel lines have so much in common. It’s a shame they’ll never meet.,Pun,4.1,Long,Adult,0.6,Math joke,General use
+927,Did you hear about the mathematician who’s afraid of negative numbers? He will stop at nothing to avoid them.,Pun,4.6,Short,G,1.0,Math joke,Kids' party
+928,I told my wife she should embrace her mistakes. She gave me a hug.,One-liner,3.0,Long,Adult,0.8,Everyday humor,Kids' party
+929,"Did you hear about the restaurant on the moon? Great food, no atmosphere.",One-liner,4.3,Long,Adult,0.7,Science joke,Icebreaker
+930,Parallel lines have so much in common. It’s a shame they’ll never meet.,Pun,3.8,Short,PG,0.5,Math joke,Kids' party
+931,Want to hear a joke about construction? I’m still working on it.,Pun,3.1,Short,G,0.8,Everyday humor,Kids' party
+932,"I used to play piano by ear, but now I use my hands.",One-liner,3.7,Long,G,0.9,Music reference,Kids' party
+933,Why don’t skeletons fight each other? They don’t have the guts.,Pun,4.4,Medium,Adult,0.7,Halloween reference,Office humor
+934,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.1,Short,PG,0.7,Science joke,Kids' party
+935,What’s orange and sounds like a parrot? A carrot!,Pun,3.7,Long,G,0.6,Wordplay,Office humor
+936,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.5,Medium,Adult,0.7,Everyday humor,Kids' party
+937,I would avoid the sushi if I was you. It’s a little fishy.,Pun,4.0,Short,Adult,0.6,Food reference,Office humor
+938,How do you organize a space party? You planet.,Pun,4.8,Medium,G,0.6,Science joke,Kids' party
+939,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.5,Short,Adult,1.0,Everyday humor,Office humor
+940,Why did the golfer bring two pairs of pants? In case he got a hole in one.,Pun,4.3,Short,Adult,0.8,Sports reference,Kids' party
+941,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.3,Short,G,0.5,Agricultural reference,Party joke
+942,Did you hear about the mathematician who’s afraid of negative numbers? He will stop at nothing to avoid them.,Pun,3.7,Medium,PG,0.8,Math joke,Office humor
+943,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,3.9,Long,Adult,0.6,Everyday humor,Icebreaker
+944,How do you organize a space party? You planet.,Pun,4.9,Short,Adult,0.7,Science joke,Kids' party
+945,I would avoid the sushi if I was you. It’s a little fishy.,Pun,4.4,Medium,Adult,0.9,Food reference,Office humor
+946,How do you organize a space party? You planet.,Pun,4.1,Long,Adult,0.6,Science joke,Kids' party
+947,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,3.9,Medium,PG,0.8,Everyday humor,Office humor
+948,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,4.8,Long,Adult,0.5,Everyday humor,Office humor
+949,Parallel lines have so much in common. It’s a shame they’ll never meet.,Pun,4.1,Medium,Adult,0.9,Math joke,Icebreaker
+950,"My boss told me to have a good day, so I went home.",One-liner,3.4,Long,Adult,0.6,Work humor,Office humor
+951,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,4.7,Short,PG,0.7,Science joke,Icebreaker
+952,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,4.6,Medium,PG,0.7,Everyday humor,Kids' party
+953,"I used to play piano by ear, but now I use my hands.",One-liner,4.8,Long,PG,0.8,Music reference,General use
+954,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,4.3,Medium,Adult,0.7,Science joke,General use
+955,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.1,Medium,PG,0.7,Science joke,Office humor
+956,Parallel lines have so much in common. It’s a shame they’ll never meet.,Pun,3.9,Long,G,0.8,Math joke,General use
+957,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.7,Medium,PG,0.8,Everyday humor,General use
+958,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.2,Short,Adult,0.6,Agricultural reference,Office humor
+959,Why don’t scientists trust atoms? Because they make up everything!,Pun,3.8,Short,PG,0.5,Science joke,Party joke
+960,"I used to play piano by ear, but now I use my hands.",One-liner,4.6,Short,G,0.9,Music reference,Party joke
+961,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,4.6,Medium,PG,0.9,Agricultural reference,Icebreaker
+962,"I used to play piano by ear, but now I use my hands.",One-liner,4.2,Medium,G,0.9,Music reference,General use
+963,Why don’t programmers like nature? It has too many bugs.,Pun,4.9,Long,Adult,0.9,Tech reference,Kids' party
+964,Why did the golfer bring two pairs of pants? In case he got a hole in one.,Pun,3.3,Medium,PG,0.7,Sports reference,Kids' party
+965,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,3.8,Long,PG,0.9,Science joke,General use
+966,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,4.8,Short,Adult,0.6,Everyday humor,Party joke
+967,I told my wife she should embrace her mistakes. She gave me a hug.,One-liner,3.9,Medium,PG,1.0,Everyday humor,Icebreaker
+968,Why did the scarecrow win an award? Because he was outstanding in his field!,Pun,3.2,Short,G,0.8,Agricultural reference,Party joke
+969,Want to hear a joke about construction? I’m still working on it.,Pun,3.9,Medium,G,0.6,Everyday humor,General use
+970,"I used to play piano by ear, but now I use my hands.",One-liner,3.2,Medium,PG,0.8,Music reference,Kids' party
+971,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.8,Short,PG,0.7,Science joke,Kids' party
+972,I’m on a whiskey diet. I’ve lost three days already.,One-liner,4.9,Medium,G,0.8,Alcohol reference,Office humor
+973,Did you hear about the mathematician who’s afraid of negative numbers? He will stop at nothing to avoid them.,Pun,4.6,Medium,G,0.5,Math joke,General use
+974,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,3.8,Long,G,1.0,Everyday humor,Party joke
+975,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,5.0,Short,G,0.8,Everyday humor,Office humor
+976,I told my wife she was drawing her eyebrows too high. She looked surprised.,One-liner,4.5,Short,Adult,0.8,Everyday humor,General use
+977,Why did the golfer bring two pairs of pants? In case he got a hole in one.,Pun,4.9,Short,PG,0.5,Sports reference,General use
+978,Why did the golfer bring two pairs of pants? In case he got a hole in one.,Pun,4.4,Long,G,0.6,Sports reference,Office humor
+979,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,3.7,Short,G,0.8,Everyday humor,General use
+980,Why don’t skeletons fight each other? They don’t have the guts.,Pun,4.2,Medium,PG,0.7,Halloween reference,Icebreaker
+981,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,4.2,Short,PG,0.9,Everyday humor,Icebreaker
+982,Why don’t scientists trust atoms? Because they make up everything!,Pun,4.7,Short,PG,0.8,Science joke,Office humor
+983,I threw a boomerang a few years ago. I now live in constant fear.,One-liner,4.6,Short,Adult,0.8,Everyday humor,Office humor
+984,Why did the golfer bring two pairs of pants? In case he got a hole in one.,Pun,3.6,Short,G,0.9,Sports reference,General use
+985,Want to hear a joke about construction? I’m still working on it.,Pun,5.0,Medium,G,1.0,Everyday humor,General use
+986,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,4.4,Short,PG,0.8,Seafood reference,Party joke
+987,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,3.5,Medium,G,0.8,Seafood reference,Office humor
+988,Why don’t programmers like nature? It has too many bugs.,Pun,3.7,Medium,PG,0.6,Tech reference,Party joke
+989,"Did you hear about the restaurant on the moon? Great food, no atmosphere.",One-liner,3.2,Long,G,0.7,Science joke,Kids' party
+990,Why don’t skeletons fight each other? They don’t have the guts.,Pun,4.1,Short,PG,0.6,Halloween reference,Icebreaker
+991,I would avoid the sushi if I was you. It’s a little fishy.,Pun,4.8,Long,PG,0.6,Food reference,Kids' party
+992,Did you hear about the mathematician who’s afraid of negative numbers? He will stop at nothing to avoid them.,Pun,4.0,Long,PG,0.8,Math joke,Office humor
+993,"I got hit in the head with a can of soda. Luckily, it was a soft drink.",Pun,4.9,Medium,PG,1.0,Everyday humor,Party joke
+994,Why don’t oysters share their pearls? Because they’re shellfish.,Pun,4.5,Long,G,0.6,Seafood reference,Office humor
+995,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,3.9,Long,Adult,0.5,Science joke,Icebreaker
+996,Want to hear a joke about construction? I’m still working on it.,Pun,3.7,Short,Adult,0.7,Everyday humor,Kids' party
+997,I’m reading a book on anti-gravity. It’s impossible to put down.,Pun,3.1,Long,Adult,0.9,Science joke,Kids' party
+998,Why don’t scientists trust atoms? Because they make up everything!,Pun,3.0,Medium,G,0.8,Science joke,Icebreaker
+999,"What did the ocean say to the beach? Nothing, it just waved.",Pun,3.5,Medium,PG,0.8,Nature reference,Kids' party
+1000,Why don’t some couples go to the gym? Because some relationships don’t work out.,Pun,4.3,Short,PG,0.5,Everyday humor,Icebreaker
